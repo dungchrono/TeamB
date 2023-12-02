@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Canon EOS 5D Mark IV Camera",
+        "category": "MAYANH",
+        "price": 200 ,
+        "description": "Sensor: Full-Frame
+        ISO range: 100 - 32000 (expandable 50 - 102400)
+        Resolution: 30.4MP
+        Wireless connection: WiFi",
+        "thumbnail": "Máy ảnh Canon EOS 5D Mark IV 1", 
+        "listThumbnail": [
+          "Máy ảnh Canon EOS 5D Mark IV 2",  
+          "Máy ảnh Canon EOS 5D Mark IV 3",
+          "Máy ảnh Canon EOS 5D Mark IV 4"
+        ],
+       "property" : [
+            {
+                "Sensor Format": "Full-Frame (1x Crop Factor)",
+                "Resolution": "31.7 Megapixels",
+                "Size photo": "6720 x 4480",
+                "Image Proportions": "1:1, 3:2, 4:3, 16:9",
+                "Sensor Type": "CMOS",
+                "Image Format": "JPEG, Raw",
+                "Anti-Vibration": "No",
+                "Lens Mount": "Canon EF"
+                
+            }
+        ]
+    }
+]
