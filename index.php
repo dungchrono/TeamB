@@ -194,14 +194,6 @@
                                         </div>
                                         <!--Title & Price End-->
 
-                                        <!--Ratting Start-->
-                                        <div class="ratting">
-                                            <div class="inner">
-                                                <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></span>
-                                            </div>
-                                        </div>
-                                        <!--Ratting End-->
-
                                     </div>
                                     <!--Content End-->
 
@@ -248,13 +240,7 @@
                                         </div>
                                         <!--Title & Price End-->
 
-                                        <!--Ratting Start-->
-                                        <div class="ratting">
-                                            <div class="inner">
-                                                <span style="width: 92%;"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></span>
-                                            </div>
-                                        </div>
-                                        <!--Ratting End-->
+ 
 
                                     </div>
                                     <!--Content End-->
@@ -302,13 +288,6 @@
                                         </div>
                                         <!--Title & Price End-->
 
-                                        <!--Ratting Start-->
-                                        <div class="ratting">
-                                            <div class="inner">
-                                                <span style="width: 80%;"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></span>
-                                            </div>
-                                        </div>
-                                        <!--Ratting End-->
 
                                     </div>
                                     <!--Content End-->
@@ -357,15 +336,7 @@
                                         </div>
                                         <!--Title & Price End-->
 
-                                        <!--Ratting Start-->
-                                        <div class="ratting">
-                                            <div class="inner">
-                                                <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></span>
-                                            </div>
-                                        </div>
-                                        <!--Ratting End-->
-
-                                    </div>
+                                     </div>
                                     <!--Content End-->
 
                                 </div>
@@ -411,13 +382,6 @@
                                         </div>
                                         <!--Title & Price End-->
 
-                                        <!--Ratting Start-->
-                                        <div class="ratting">
-                                            <div class="inner">
-                                                <span style="width: 50%;"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></span>
-                                            </div>
-                                        </div>
-                                        <!--Ratting End-->
 
                                     </div>
                                     <!--Content End-->
@@ -465,14 +429,7 @@
                                         </div>
                                         <!--Title & Price End-->
 
-                                        <!--Ratting Start-->
-                                        <div class="ratting">
-                                            <div class="inner">
-                                                <span style="width: 92%;"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></span>
-                                            </div>
-                                        </div>
-                                        <!--Ratting End-->
-
+ 
                                     </div>
                                     <!--Content End-->
 
@@ -520,15 +477,7 @@
                                         </div>
                                         <!--Title & Price End-->
 
-                                        <!--Ratting Start-->
-                                        <div class="ratting">
-                                            <div class="inner">
-                                                <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></span>
-                                            </div>
-                                        </div>
-                                        <!--Ratting End-->
-
-                                    </div>
+                                     </div>
                                     <!--Content End-->
 
                                 </div>
@@ -573,14 +522,6 @@
 
                                         </div>
                                         <!--Title & Price End-->
-
-                                        <!--Ratting Start-->
-                                        <div class="ratting">
-                                            <div class="inner">
-                                                <span style="width: 95%;"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></span>
-                                            </div>
-                                        </div>
-                                        <!--Ratting End-->
 
                                     </div>
                                     <!--Content End-->
@@ -717,13 +658,6 @@
                                         </div>
                                         <!--Title & Price End-->
 
-                                        <!--Ratting Start-->
-                                        <div class="ratting">
-                                            <div class="inner">
-                                                <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></span>
-                                            </div>
-                                        </div>
-                                        <!--Ratting End-->
 
                                     </div>
                                     <!--Content End-->
@@ -771,15 +705,7 @@
                                         </div>
                                         <!--Title & Price End-->
 
-                                        <!--Ratting Start-->
-                                        <div class="ratting">
-                                            <div class="inner">
-                                                <span style="width: 92%;"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></span>
-                                            </div>
-                                        </div>
-                                        <!--Ratting End-->
-
-                                    </div>
+                                      </div>
                                     <!--Content End-->
 
                                 </div>
@@ -825,13 +751,6 @@
                                         </div>
                                         <!--Title & Price End-->
 
-                                        <!--Ratting Start-->
-                                        <div class="ratting">
-                                            <div class="inner">
-                                                <span style="width: 80%;"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></span>
-                                            </div>
-                                        </div>
-                                        <!--Ratting End-->
 
                                     </div>
                                     <!--Content End-->
@@ -880,13 +799,6 @@
                                         </div>
                                         <!--Title & Price End-->
 
-                                        <!--Ratting Start-->
-                                        <div class="ratting">
-                                            <div class="inner">
-                                                <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></span>
-                                            </div>
-                                        </div>
-                                        <!--Ratting End-->
 
                                     </div>
                                     <!--Content End-->
@@ -934,14 +846,6 @@
                                         </div>
                                         <!--Title & Price End-->
 
-                                        <!--Ratting Start-->
-                                        <div class="ratting">
-                                            <div class="inner">
-                                                <span style="width: 50%;"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></span>
-                                            </div>
-                                        </div>
-                                        <!--Ratting End-->
-
                                     </div>
                                     <!--Content End-->
 
@@ -987,14 +891,6 @@
 
                                         </div>
                                         <!--Title & Price End-->
-
-                                        <!--Ratting Start-->
-                                        <div class="ratting">
-                                            <div class="inner">
-                                                <span style="width: 92%;"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></span>
-                                            </div>
-                                        </div>
-                                        <!--Ratting End-->
 
                                     </div>
                                     <!--Content End-->
@@ -1043,14 +939,6 @@
                                         </div>
                                         <!--Title & Price End-->
 
-                                        <!--Ratting Start-->
-                                        <div class="ratting">
-                                            <div class="inner">
-                                                <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></span>
-                                            </div>
-                                        </div>
-                                        <!--Ratting End-->
-
                                     </div>
                                     <!--Content End-->
 
@@ -1096,14 +984,6 @@
 
                                         </div>
                                         <!--Title & Price End-->
-
-                                        <!--Ratting Start-->
-                                        <div class="ratting">
-                                            <div class="inner">
-                                                <span style="width: 95%;"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></span>
-                                            </div>
-                                        </div>
-                                        <!--Ratting End-->
 
                                     </div>
                                     <!--Content End-->
@@ -1215,7 +1095,97 @@
         </div>
         <!--Service/Feature Section End-->
 
-      
+        <!--Footer Section Start-->
+        <div class="section section-wide">
+            <div class="container-fluid">
+                <div class="footer-section">
+
+                    <!--Footer Top Start-->
+                    <div class="footer-top">
+                        <div class="row mbn-40">
+
+                            <!--Footer Widget Start-->
+                            <div class="col-lg-3 col-md-6 col-12 mb-40">
+                                <div class="footer-widget">
+                                    <h4 class="footer-widget-title">About us</h4>
+                                    <div class="footer-widget-text">
+                                        <p>FOTOLAB was established in 1991 with the objective of providing sales service for Digital Camera, SLR Camera, Handycam, their accessories and all other related products.</p>
+                                    </div>
+                                </div>
+                                <div class="footer-widget mt-20">
+                                    <h4 class="footer-widget-title">Follow us</h4>
+                                    <div class="footer-widget-socail">
+                                        <a href="#"><i class="fa fa-facebook"></i></a>
+                                        <a href="#"><i class="fa fa-twitter"></i></a>
+                                        <a href="#"><i class="fa fa-rss"></i></a>
+                                        <a href="#"><i class="fa fa-google-plus"></i></a>
+                                        <a href="#"><i class="fa fa-linkedin"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--Footer Widget End-->
+
+                            <!--Footer Widget Start-->
+                            <div class="col-lg-3 col-md-6 col-12 mb-40">
+                                <div class="footer-widget">
+                                    <h4 class="footer-widget-title">Information</h4>
+                                    <ul class="footer-widget-link">
+                                        <li><a href="#">About Us</a></li>
+                                        <li><a href="contact.html">Contact Me</a></li>
+          
+                                    </ul>
+                                </div>
+                            </div>
+                            <!--Footer Widget End-->
+
+                    <!--Footer Widget Start-->
+                    <div class="col-lg-3 col-md-6 col-12 mb-40">
+                                <div class="footer-widget">
+                                    <h4 class="footer-widget-title">My Account</h4>
+                                    <ul class="footer-widget-link">
+                                        <li><a href="#">My Account</a></li>
+                                        <li><a href="#">Checkout</a></li>
+                                        <li><a href="#">Contact</a></li>
+                                        <li><a href="#">Wishlist</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <!--Footer Widget End-->
+
+                            <!--Footer Widget Start-->
+                            <div class="col-lg-3 col-md-6 col-12 mb-40">
+                                <div class="footer-widget">
+                                    <h4 class="footer-widget-title">Address</h4>
+                                    <div class="footer-widget-text mb-15">
+                                        <p><i class="fa fa-home"></i> 8 Ton That Thuyet, My Dinh, Ha Noi.</p>
+                                        <p><i class="fa fa-phone"></i> 19009999</p>
+                                        <p><i class="fa fa-envelope"></i> <a href="mailto:info@demo.com">teamb@gmail.com</a></p>
+
+                            </div>
+                            <!--Footer Widget End-->
+                        </div>
+                    </div>
+                    <!--Footer Top End-->
+
+                    <!--Footer Bottom Start-->
+                    <div class="footer-bottom">
+                        <div class="row">
+                            <div class="copyright col-12">
+                                <p>© 2023 FOTOLAB. Made with <i class="fa fa-heart heart-icon"></i> By <a target="_blank" href="https://hasthemes.com">TEAM B</a></p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Footer Bottom End-->
+
+                </div>
+            </div>
+        </div>
+        <!--Footer Section End-->
+
+
+    </div>
+
+    <!-- JS
 ============================================ -->
 
     <!-- Modernizer JS -->
