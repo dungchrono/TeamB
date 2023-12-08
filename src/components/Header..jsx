@@ -37,7 +37,7 @@ function Header() {
         {/* Header Logo Start */}
         <div className="col-auto">
           <div className="header-logo">
-            <Link to={'/'}><img src="assets/images/logo/logo8.jpg" alt="Logo" /></Link>
+            <Link to={'/'}><img src="assets/images/logo/logo5.jpg" alt="Logo" /></Link>
           </div>
         </div>{/* Header Logo End */}
         {/* Main Menu One Start */}
