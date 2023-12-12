@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 function Contact() {
   return (
       <>
-          <div class="section section-padding">
+        
       <div className="section section-wide">
         <div className="container-fluid">
           {/*Page Banner Start*/}
@@ -14,7 +14,7 @@ function Contact() {
                 <li>Contact</li>
               </ul>
             </div>
-          </div>
+          
           {/*Page Banner End*/}
         </div>
       </div>
