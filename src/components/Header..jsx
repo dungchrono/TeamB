@@ -57,11 +57,11 @@ function Header() {
                     <li><Link  to={'/list?nameCategory=cameras&nameChildCategory=compact-camera'}>Compact Camera</Link></li>
                   </ul>
                 </li>
-                <li className="menu-item-has-children"><Link  to={'/list?nameCategory=cameras-lenses'}>Camera Lens</Link>
+                <li className="menu-item-has-children"><Link  to={'/list?nameCategory=cameras-lenses'}>Camera Lenses</Link>
                     <ul className="sub-menu">
-                    <li><Link  to={'/list?nameCategory=cameras-lens&nameChildCategory=dslr-lens'}>DSLR Lens</Link></li>
-                    <li><Link  to={'/list?nameCategory=cameras-lens&nameChildCategory=mirrorless-lens'}>Mirrorless Lens</Link></li>
-                    <li><Link  to={'/list?nameCategory=cameras-lens&nameChildCategory=medium-lens'}>Medium Format Lens</Link></li>
+                    <li><Link  to={'/list?nameCategory=cameras-lenses&nameChildCategory=dslr-lenses'}>DSLR Lenses</Link></li>
+                    <li><Link  to={'/list?nameCategory=cameras-lenses&nameChildCategory=mirrorless-lenses'}>Mirrorless Lenses</Link></li>
+                    <li><Link  to={'/list?nameCategory=cameras-lenses&nameChildCategory=medium-lenses'}>Medium Format Lenses</Link></li>
                   </ul>
                 </li>
                 <li className="menu-item-has-children"><Link  to={'/list?nameCategory=pro-audio'}>Pro Audio</Link>

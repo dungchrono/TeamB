@@ -85,7 +85,6 @@ function ListItem() {
                                         <div className="product-showing me-auto">
                                             <h4>{formatString(nameCategory && ! nameChildCategory ? nameCategory: nameChildCategory)}</h4>
                                         </div>
-
                                     </div>
                                     {/*Shop Toolbar End*/}
                                     <div className="shop-product-wrap row mbn-35">
@@ -109,10 +108,7 @@ function ListItem() {
                                         {/*Sidebar Start*/}
                                         <div className="col-12 mb-35">
                                             <div className="widget">
-                                                <h3>LIST OF PRODUCTS</h3>
-                                                {/* <ul className="widget-link">
-                                                    <li><a href="#">{formatString(nameCategory && ! nameChildCategory ? nameCategory: nameChildCategory)}</a></li>
-                                                </ul> */}
+                                                <h3>LIST OF PRODUCTS</h3>  
                                             </div>
                                         </div>
                                         {/*Sidebar End*/}

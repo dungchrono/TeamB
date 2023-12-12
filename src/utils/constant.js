@@ -14,18 +14,18 @@ export const TYPE_NAV = {
         },
         
     ],
-    "cameras-lens": [
+    "cameras-lenses": [
         {
-            name: "dslr-lens",
-            value: "DSLR Lens"
+            name: "dslr-lenses",
+            value: "DSLR Lenses"
         },
         {
-            name: "mirrorless-lens",
-            value: "Mirrorless Lens"
+            name: "mirrorless-lenses",
+            value: "Mirrorless Lenses"
         },
         {
-            name: "medium-lens",
-            value: "Medium Format Lens"
+            name: "medium-lenses",
+            value: "Medium Format Lenses"
         },
     ],
     "pro-audio": [

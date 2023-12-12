@@ -607,7 +607,7 @@ label {
 
 input:not([type="submit"]) {
   width: 100%;
-  border-radius: 50px;
+  border-radius: 0px;
   height: 40px;
   border: 1px solid #dddddd;
   line-height: 24px;

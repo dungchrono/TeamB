@@ -3,6 +3,7 @@ import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import { useMyContext } from "../hook/MyContext";
 
+
 function Home() {
   const { data, addItem } = useMyContext();
   const [list, setList] = useState(FAKE_DATA.filter((i)=> i.id == 1 || i.id == 41|| i.id == 71|| i.id == 21|| i.id == 51|| i.id == 91|| i.id == 102|| i.id == 81))
@@ -17,7 +18,7 @@ function Home() {
 
 <div className="section section-wide section-padding pt-0">
           <div className="container-fluid">
-          <div className="hero-item hero-bg-2" style={{ width: '100%', display: 'inline-block' }}>
+          <div className="hero-item hero-bg-1" style={{ width: '100%', display: 'inline-block' }}>
                         <div className="content">
                             <h2 className="title">Capture your <br/>Beautiful moments</h2>
                             <a href="#" className="btn">Buy Now</a>
@@ -46,23 +47,19 @@ function Home() {
             {/*Image & Action Start*/}
             <div className="image-action">
             <Link className="image" to={`/item?id=${item.id}&name=${item.name}`}><img src={`../assets/images/products/${item.thumbnail}`} alt="" /></Link>
-              {/*Action Start*/}
-              {/* <div className="action">
-                <div onClick={()=>handlePickSearch(item)} className="action-btn action-quickview">COMPARE</div>
-              </div> */}
-              {/*Action End*/}
+
             </div>
             {/*Image & Action End*/}
-            {/*Content Start*/}
-            <div className="content">
-              {/*Title & Price Start*/}
-              <div className="title-price">
-                <h4 className="title"><a href="Mirrorless Camera 9.html">{item.name}</a></h4>
-                              <span className="price">{ item.price}</span>
-              </div>
-              {/*Title & Price End*/}
-            </div>
-            {/*Content End*/}
+                          {/*Content Start*/}
+                          <div className="content">
+                            {/*Title & Price Start*/}
+                            <div className="title-price">
+                              <h4 className="title"><Link to={`/item?id=${item.id}&name=${item.name}`}>{item.name}</Link></h4>
+                              <span className="price">{item.price}</span>
+                            </div>
+                            {/*Title & Price End*/}
+                          </div>
+                          {/*Content End*/}
           </div>
         </div>
                     ))
@@ -143,11 +140,7 @@ function Home() {
                           {/*Image & Action Start*/}
                           <div className="image-action">
                           <Link className="image" to={`/item?id=${item.id}&name=${item.name}`}><img src={`../assets/images/products/${item.thumbnail}`} alt="" /></Link>
-                            {/*Action Start*/}
-                            {/* <div className="action">
-                            <div onClick={()=>handlePickSearch(item)} className="action-btn action-quickview">COMPARE</div>
-                            </div> */}
-                            {/*Action End*/}
+
                           </div>
                           {/*Image & Action End*/}
                           {/*Content Start*/}
@@ -173,14 +166,14 @@ function Home() {
           {/*Banner Start*/}
           <div className="col-lg-12 col-6 mb-35">
             <div className="banner">
-              <a href="Tripods & Supports.html"><img src="assets/images/banner/banner-8.jpg" alt="Banner" /></a>
+            <Link  to={'/list?nameCategory=accessories&nameChildCategory=tripods-support'}><img src="assets/images/banner/banner-8.jpg" alt="Banner" /></Link>
             </div>
           </div>
           {/*Banner End*/}
           {/*Banner Start*/}
           <div className="col-lg-12 col-6 mb-35">
             <div className="banner">
-              <a href="DSLR Camera.html"><img src="assets/images/banner/unnamed.png" alt="Banner" /></a>
+            <Link  to={'/list?nameCategory=cameras&nameChildCategory=dslr-camera'}><img src="assets/images/banner/unnamed.png" alt="Banner" /></Link>
             </div>
           </div>
           {/*Banner End*/}
@@ -197,16 +190,7 @@ function Home() {
       {/*Subscribe Content Start*/}
       <div className="subscribe-content">
         <h2 className="title">Subscribe our Newsletter<span>Get update for news, offers</span></h2>
-        {/* <form id="mc-form" className="mc-form subscribe-form">
-          <input id="mc-email" type="email" autoComplete="off" placeholder="Enter your email here" name="EMAIL" />
-          <button id="mc-submit"><i className="fa fa-paper-plane-o" /></button>
-        </form> */}
-        {/* mailchimp-alerts Start */}
-        <div className="mailchimp-alerts text-centre">
-          <div className="mailchimp-submitting" />{/* mailchimp-submitting end */}
-          <div className="mailchimp-success" />{/* mailchimp-success end */}
-          <div className="mailchimp-error" />{/* mailchimp-error end */}
-        </div>{/* mailchimp-alerts end */}
+
       </div>
       {/*Subscribe Content End*/}
     </div>

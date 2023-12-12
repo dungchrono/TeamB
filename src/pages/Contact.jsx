@@ -77,16 +77,6 @@ function Contact() {
                   Subscribe our Newsletter
                   <span>Get update for news, offers</span>
                 </h2>
-                {/* mailchimp-alerts Start */}
-                <div className="mailchimp-alerts text-centre">
-                  <div className="mailchimp-submitting" />
-                  {/* mailchimp-submitting end */}
-                  <div className="mailchimp-success" />
-                  {/* mailchimp-success end */}
-                  <div className="mailchimp-error" />
-                  {/* mailchimp-error end */}
-                </div>
-                {/* mailchimp-alerts end */}
               </div>
               {/*Subscribe Content End*/}
             </div>

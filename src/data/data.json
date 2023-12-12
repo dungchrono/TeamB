@@ -3,11 +3,11 @@
         "id": 1,
         "name": "Canon EOS 5D Mark IV Camera",
         "value": "canon eos 5d mark IV camera",
-        "file": "Atlas Hyper 2.0 speaker cable.docx",
+        "file": "Canon EOS 5D Mark IV Camera.docx",
         "category1": "cameras",
         "category2": "dslr-camera",
         "price": "1600$",
-        "description": "<div className='row'><div className='single-product-description-content col-lg-8 col-12'><h4>Canon EOS 1D X Mark III has a new sensor, new imaging system</h4><p>The Canon EOS 1D X Mark III uses a completely new 20.1MP sensor combined with the DIGIC moire application.</p><h4>Stylish Design</h4><div className='single-product-image slick-initialized slick-slider'><div className='slick-list'><div className='slick-track' style='opacity: 1; width: 616px; transform: translate3d(0px, 0px, 0px);'><div className='slick-slide slick-current slick-active' data-slick-index='0' aria-hidden='false' style='width: 616px; position: relative; overflow: hidden;'><div><img src='https://cdn.vjshop.vn/may-anh/dslr/canon/canon-eos-1d-x-mark-iii/canon-eos-1dx-iii-info-1.jpg' alt=' style='width: 100%; display: inline-block;'></div><img role='presentation' alt=' src='https://cdn.vjshop.vn/may-anh/dslr/canon/canon-eos-1d-x-mark-iii/canon-eos-1dx-iii-info-1.jpg' className='zoomImg' style='position: absolute; top: -58.075px; left: -151.35px; opacity: 0; width: 770px; height: 540px; border: none; max-width: none; max-height: none;'></div></div></div></div><p>The Canon EOS 1D X Mark III features a wide color space with HDR HEIF imaging options, providing greater highlight detail when displayed on compatible monitors and printers. In addition, clarity-in-camera control is also new that allows adjustment of contrast and midtone.</p></div></div>",
+        "description": "<h4>Breakthrough technology inside familiar design</h4><div class='single-product-image'><img src='assets/images/products/dslr camera 1.1.jpg' alt=''></div><h4>Touch screen</h4><p>The Canon EOS 5D Mark IV has a large 3.2-inch LCD touch screen with 1.62 million pixels and an anti-reflective layer that helps display truly excellent outdoor images.</p><div class='single-product-image'><img src='assets/images/products/dslr camera 1.2.jpg' alt=''></div>",
         "thumbnail": "canon-eos-5d-mark-iv-500x500.jpg",
         "listThumbnail": [
             "canon-eos-5d-mark-iv-500x500.jpg",
@@ -26,8 +26,7 @@
                 "Anti-Vibration": "No",
                 "Lens Mount": "Canon EF"  
             },
-        "feature": "<ul><li>Sensor: Full-Frame</li><li>ISO range: 100 - 32000 (expanded 50 - 102400)</li><li>Resolution: 30.4MP</li><li>Wireless connection: WiFi</li></ul>",
-        "brand": ["Cameras","Cameras 2","Cameras 3"]
+        "feature": "<ul><li>Sensor: Full-Frame</li><li>ISO range: 100 - 32000 (expanded 50 - 102400)</li><li>Resolution: 30.4MP</li><li>Wireless connection: WiFi</li></ul>"
     },
     {
         "id": 2,
@@ -35,9 +34,9 @@
         "value": "canon eos 850D camera",
         "category1": "cameras",
         "category2": "dslr-camera",
-        "file": "Canon EOS 850D.docx",
+        "file": "Canon EOS 850D Camera.docx",
         "price": "800$",
-        "description": "<div className=‘row’><div className=‘single-product-description-content col-lg-8 col-12’><h4>Breakthrough technology inside familiar design</h4><div className=‘single-product-image’><img src=‘https://cdn.vjshop.vn/may-anh/dslr/canon/canon-eos-5d-mark-iv/may-anh-may-anh-canon-eos-5d-mark-iv-3.jpg’ alt=‘> </div><h4>Touch screen</h4><p>The Canon EOS 5D Mark IV has a large 3.2-inch LCD touch screen with 1.62 million pixels and an anti-reflective layer that helps display truly excellent outdoor images.</p><div className=‘single-product-image’><img src=‘https://cdn.vjshop.vn/may-anh/dslr/canon/canon-eos-5d-mark-iv/may-anh-may-anh-canon-eos-5d-mark-iv.jpg’ alt=‘></div></div>",
+        "description": "<h4>Canon EOS 850D with fast, accurate focus lock</h4><p>Canon EOS 850D is equipped with advanced features suitable for high-quality cameras. This is the perfect model for professional photographers. Accordingly, this DSLR camera combines a 24.1MP APS-C CMOS sensor with professional 4K recording mode. There are a total of 45 focus points on the viewfinder, and the live view screen uses Dual Pixel CMOS AF. In addition, the camera also has Wifi connectivity and a user-friendly interface.</p><h4>Stylish Design</h4><div class=‘single-product-image'><img src='assets/images/description/canon-eos-850d-7.jpg' alt=''></div><p>The EOS iTR AF face detection feature on the Canon EOS 850D also ensures clear portrait shots by tracking the moving subject's face while shooting with the camera's viewfinder.</p></div>",
         "thumbnail": "canon-eos-850d-body-2-500x500.jpg",
         "listThumbnail": [
             "canon-eos-850d-body-2-500x500.jpg",
@@ -58,8 +57,7 @@
                 "Lens Mount": "EF/EF-S"                               
 
             },
-            "feature": "<ul><li>5 axis Digital vibration resistance, stability</li><li>24.1MP APS-C CMOS Sensor/Digic 8 Processor</li><li>Wifi and Bluetooth connectivity</li><li>4K UHD 25fps movie recording</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>5 axis Digital vibration resistance, stability</li><li>24.1MP APS-C CMOS Sensor/Digic 8 Processor</li><li>Wifi and Bluetooth connectivity</li><li>4K UHD 25fps movie recording</li></ul>"
     },
     {
         "id": 3,
@@ -67,11 +65,12 @@
         "value": "canon eos 6D mark II camera",
         "category1": "cameras",
         "category2": "dslr-camera",
-        "file": "Canon EOS 6D Mark II.docx",
+        "file": "Canon EOS 6D Mark II Camera.docx",
         "price": "1200$",
-        "description": "Smart zipper Smooth inner padding design Compact, convenient, lightweight design Shockproof bag for camera",
+        "description": "<h4>26.2MP Full-Frame CMOS sensor and DIGIC 7 image processor</h4><p>The 26.2MP Full-Frame CMOS sensor combined with the DIGIC 7 image processor on the Canon 6D Mark II creates extremely sharp and vivid images and videos. The machine's ISO sensitivity range can be expanded up to 102,400 - a pretty huge number in the price segment.</p><h4>Stylish Design</h4><div class='single-product-image'><img src='assets/images/products/dslr camera 3.1.jpg' alt=''></div><p>enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia res eos qui ratione voluptatem sequi Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci veli</p></div>",
         "thumbnail": "canon-6d-mark-ii-500x500.jpg",
         "listThumbnail": [
+            "canon-6d-mark-ii-500x500.jpg",
             "canon-6d-mark-ii-1-500x500.jpg",  
             "canon-6d-mark-ii-7-500x500.jpg",
             "canon-6d-mark-ii-6-500x500.jpg"
@@ -87,8 +86,7 @@
                 "Anti-Vibration": "Digital, 5-Axis (Movie only)",
                 "Lens Mount": " Canon EF"                
             },
-            "feature": "<ul><li>Sensor: Full-Frame</li><li>ISO range: 100 - 40000 (expandable 50 - 102400)</li><li>Resolution: 26.2MP</li><li>Wireless connection: WiFi</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Sensor: Full-Frame</li><li>ISO range: 100 - 40000 (expandable 50 - 102400)</li><li>Resolution: 26.2MP</li><li>Wireless connection: WiFi</li></ul>"
     },
     {
         "id": 4,
@@ -96,9 +94,9 @@
         "value": "canon eos 90D camera",
         "category1": "cameras",
         "category2": "dslr-camera",
-        "file": "Canon EOS 90D.docx",
+        "file": "Canon EOS 90D Camera.docx",
         "price": "1400$",
-        "description": "fffff",
+        "description": "<h4>32.5MP APS-C CMOS Sensor and DIGIC 8 image processor</h4><p>Canon EOS 90D is considered a mid-range DSLR camera for those who want to improve their photography abilities. The camera has dimensions of 140.7 x 104.8 x 76.8 mm and weight of 701g and is designed with a 3.1 inch flip screen. This Canon camera is dust and moisture resistant, suitable for use when taking photos in many different weather conditions. Besides, the buttons are placed in convenient positions to help users be flexible during use.</p><h4>Stylish Design</h4><div class='single-product-image'> <img src='assets/images/products/dslr camera 4.1.jpg' alt=''></div><p>Canon EOS 90D can connect to smartphones via Bluetooth and Wifi. This feature allows you to easily share images/videos via your smartphone via the Canon Camera Connect app. In particular, you can adjust settings and change shooting modes on the camera through this application.</p></div>",
         "thumbnail": "canon-eos-90d-18-135mm-500x500.jpg", 
         "listThumbnail": [
           "canon-eos-90d-18-135mm-500x500.jpg",
@@ -117,8 +115,7 @@
                 "Anti-Vibration": " Digital (Video Only)",
                 "Lens Mount": " Canon EF-S"                
             },
-            "feature": "<ul><li>Sensor: APS-C</li><li>ISO range: 100 - 25600 (expandable 100 - 51200)</li><li>Resolution: 32.5MP</li><li>Wireless connection: WiFi</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Sensor: APS-C</li><li>ISO range: 100 - 25600 (expandable 100 - 51200)</li><li>Resolution: 32.5MP</li><li>Wireless connection: WiFi</li></ul>"
     },
     {
         "id": 5,
@@ -126,9 +123,9 @@
         "value": "canon eos-1D x mark III camera",
         "category1": "cameras",
         "category2": "dslr-camera",
-        "file": "Canon EOS-1D X Mark III.docx",
+        "file": "Canon EOS-1D X Mark III Camera.docx",
         "price": "5000$",
-        "description": "fffff",
+        "description": "<h4>Canon EOS 1D X Mark III has a new sensor, new imaging system</h4><p>The Canon EOS 1D X Mark III uses a completely new 20.1MP sensor combined with the DIGIC moire application.</p><h4>Stylish Design</h4><div class='single-product-image'><img src='assets/images/products/dslr camera 5.1.jpg' alt=''></div><p>The Canon EOS 1D X Mark III features a wide color space with HDR HEIF imaging options, providing greater highlight detail when displayed on compatible monitors and printers. In addition, clarity-in-camera control is also new that allows adjustment of contrast and midtone.</p></div>",
         "thumbnail": "canon-eos-1dx-iii-1-500x500.jpg", 
         "listThumbnail": [
           "canon-eos-1dx-iii-1-500x500.jpg",
@@ -147,8 +144,7 @@
                 "Anti-Vibration": " In-body 5-axis electronic image stabilisation",
                 "Lens Mount": " Canon EF"                      
             },
-            "feature": "<ul><li>191 focus points through viewfinder</li><li>20.1MP Full-Frame CMOS sensor</li><li>Canon Dual Pixel CMOS AF 525 optional zones</li><li>Record 4K 60fps video</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>191 focus points through viewfinder</li><li>20.1MP Full-Frame CMOS sensor</li><li>Canon Dual Pixel CMOS AF 525 optional zones</li><li>Record 4K 60fps video</li></ul>"
     },
     {
         "id": 6,
@@ -156,9 +152,9 @@
         "value": "nikon d7500 camera",
         "category1": "cameras",
         "category2": "dslr-camera",
-        "file": "Nikon D7500.docx",
+        "file": "Nikon D7500 Camera.docx",
         "price": "1100$",
-        "description": "fffff",
+        "description": "<h4>Nikon D7500 with sturdy design</h4><p>Quite similar to many Nikon DSLR cameras, the D7500 is also designed with a monocoque carbon fiber shell with good bearing capacity, working effectively in many different environmental conditions, without making the camera feel uncomfortable. heavy to hold</p><h4>Stylish Design</h4><div class='single-product-image'><img src='assets/images/products/dslr camera 6.1.jpg' alt=''></div><p>Similar to the D500, the Nikon D7500 also uses the same 20.9MP DX CMOS sensor and EXPEED 5 image processor for sensitive processing and realistic images. The camera's ISO range is from 100 - 51200 and can be expanded to 50 - 1640000 to help handle light best in many different conditions.</p></div>",
         "thumbnail": "nikon-d7500-nhap-khau11-500x500.jpg", 
         "listThumbnail": [
           "nikon-d7500-nhap-khau11-500x500.jpg",
@@ -178,8 +174,7 @@
                 "Lens Mount": " Nikon F"                
                       
             },
-            "feature": "<ul><li>Sensor: APS-C</li><li>ISO range: 100 - 51200 (expandable 50 - 1640000)</li><li>Resolution: 20.9MP</li><li>Wireless connection: WiFi, bluetooth</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Sensor: APS-C</li><li>ISO range: 100 - 51200 (expandable 50 - 1640000)</li><li>Resolution: 20.9MP</li><li>Wireless connection: WiFi, bluetooth</li></ul>"
     } , 
     {
         "id": 7,
@@ -187,9 +182,9 @@
         "value": "nikon d610 camera",
         "category1": "cameras",
         "category2": "dslr-camera",
-        "file": "Nikon D610.docx",
+        "file": "Nikon D610 Camera.docx",
         "price": "1400$",
-        "description": "fffff",
+        "description": "<h4>24.3 MP FX-format sensor and EXPEED 3 image processor</h4><p>Equipped with a 24.3-megapixel full-frame CMOS sensor and EXPEED 3 image processor, the camera delivers overall high image quality with notable detail and relative accuracy. In addition, the Nikon D610 also possesses low light sensitivity with ISO 6400, supports full HD 1080p video recording, and continuous shooting speed with full resolution of 6 frames per second. This sensor can also record images in DX format and automatically switches to support the use of dedicated DX lenses when attached.</p><h4>Nikon D610 camera design</h4><div class='single-product-image'><img src='assets/images/products/dslr camera 7.1.jpg' alt=''></div><p>The apt AF system uses 39 separate AF points to deliver fast focusing performance in a variety of lighting conditions from -1 to +19 EV. Intelligent automatic scene recognition system assists users in identifying subjects to suit the landscape, benefiting autofocus performance.</p></div>",
         "thumbnail": "nikon-d610-01-500x500.jpg", 
         "listThumbnail": [
           "nikon-d610-01-500x500.jpg",
@@ -209,8 +204,7 @@
                 "Lens Mount": " Nikon F"      
 
             },
-            "feature": "<ul><li>EXPEED 3 image processor</li><li>24.3MP FX-format CMOS sensor</li><li>LCD screen 3.2</li><li>Record Full HD 1080p video at 30 frames per second</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>EXPEED 3 image processor</li><li>24.3MP FX-format CMOS sensor</li><li>LCD screen 3.2</li><li>Record Full HD 1080p video at 30 frames per second</li></ul>"
     }  , 
     {
         "id": 8,
@@ -218,9 +212,9 @@
         "value": "nikon d850 camera",
         "category1": "cameras",
         "category2": "dslr-camera",
-        "file": "Nikon D850.docx",
+        "file": "Nikon D850 Camera.docx",
         "price": "3000$",
-        "description": "fffff",
+        "description": "<h4>45.7MP FullFrame BSI CMOS Sensor and EXPEED 5 Processor</h4><p>After 3 years since the launch of the D810, Nikon introduced the next generation to consumers around the world, the Nikon D850, at the end of August 2017. Nikon's D850 is expected to be the company's first FullFrame camera with the ability to optimize high image resolution, processing speed and performance. This is also the first FullFrame camera in the world capable of recording 8K resolution Timelapse videos.</p><h4>Durable, professional design of Nikon D850</h4><div class='single-product-image'><img src='assets/images/products/dslr camera 8.1.jpg' alt=''</div><p>The device is also equipped with a multi-dimensional rotating touch screen, helping users easily compose in many difficult angles to create smooth and impressive films.</p></div>",
         "thumbnail": "nikon-d8502-500x500.jpg", 
         "listThumbnail": [
         "nikon-d8502-500x500.jpg",
@@ -240,8 +234,7 @@
                 "Lens Mount": " Nikon F"                
 
             },
-            "feature": "<ul><li>Sensor: Full-frame resolution: 45.7MP</li><li>ISO range: 64 - 25600 (expandable 32 - 102400)</li><li>Wireless connection: WiFi, bluetooth</li><li>LCD touch screen 3.2</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Sensor: Full-frame resolution: 45.7MP</li><li>ISO range: 64 - 25600 (expandable 32 - 102400)</li><li>Wireless connection: WiFi, bluetooth</li><li>LCD touch screen 3.2</li></ul>"
     } , 
     {
         "id": 9,
@@ -249,9 +242,9 @@
         "value": "nikon d780 camera",
         "category1": "cameras",
         "category2": "dslr-camera",
-        "file": "Nikon D780.docx",
+        "file": "Nikon D780 Camera.docx",
         "price": "2000$",
-        "description": "fffff",
+        "description": "<h4>24.5MP BSI CMOS FX Sensor & EXPEED 6 Processor</h4><p>Overall, it can be seen that the Nikon D780 has a big and bold design with many angles and buttons, looking very professional and modern. The D780 weighs only 840 grams and measures 143.5 x 115.5 x 76 mm. In particular, on this version Nikon has removed the 'toad' flash that often appears on previous full-frame Nikon cameras, giving the device a more seamless and sealed design.</p><h4>Design of the Nikon D780 camera</h4><div class='single-product-image'><img src='assets/images/products/dslr camera 9.1.jpg' alt=''></div><p>The Nikon D780 is equipped with a Multi-CAM 3500 II focus sensor, using 51 phase-detection focus points to quickly and accurately detect subjects. This system allows operation in low light conditions down to -3EV. Besides, 15 cross-type focus points provide high accuracy in low-contrast situations</p></div>",
         "thumbnail": "nikon-d7801-500x500.jpg", 
         "listThumbnail": [
           "nikon-d7801-500x500.jpg",
@@ -271,8 +264,7 @@
                 "Lens Mount": " Nikon F"                           
 
             },
-            "feature": "<ul><li>Sensor: Full-frame</li><li>ISO range: 100 - 51200 (expandable 50 - 204800)</li><li>Resolution: 24.5MP</li><li>Wireless connection: WiFi, bluetooth</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Sensor: Full-frame</li><li>ISO range: 100 - 51200 (expandable 50 - 204800)</li><li>Resolution: 24.5MP</li><li>Wireless connection: WiFi, bluetooth</li></ul>"
     } , 
     {
         "id": 21,
@@ -280,9 +272,9 @@
         "value": "canon eos r6 camera",
         "category1": "cameras",
         "category2": "mirrorless-camera",
-        "file": "Canon EOS R6.docx",
+        "file": "Canon EOS R6 Camera.docx",
         "price": "2000$",
-        "description": "fffff",
+        "description": "<h4>20.1MP CMOS & DIGIC X Sensor ON CANON EOS R6</h4><p>Canon EOS R6 is a Canon camera equipped with a 20.1 megapixel Full-frame CMOS sensor, which has been improved compared to the same sensor found on the 1DX mark III professional DSLR line. Combined with the DIGIC</p><h4>Some outstanding features in the design of the Canon EOS R6</h4><div class='single-product-image'><img src='assets/images/products/mirrorless camera 1.1.jpg' alt=''></div><p>In addition to taking high-quality photos, the 20MP sensor of the Canon EOS R6 Full-frame mirrorless camera also supports 10-bit video recording with a 4:2:2 ratio of UHD 4K quality at a speed of up to 60 frames per second and Full HD at 120 fps. Both formats can be shot with Canon Log and HDR-PQ modes that support greater control over color rendering and provide high dynamic range.</p><img src='assets/images/products/mirrorless camera 1.2.jpg' alt=''></div>",
         "thumbnail": "canon-eos-r6-with-24-105-f4-71-lens-2-500x500.jpg", 
         "listThumbnail": [
           "canon-eos-r6-with-24-105-f4-71-lens-2-500x500.jpg",
@@ -302,8 +294,7 @@
                 "Lens Mount": "Canon RF"                          
 
             },
-            "feature": "<ul><li>DIGIC X image processor/XQD</li><li>20MP full-frame CMOS sensor</li><li>5-axis image stabilization</li><li>Record 10-bit 4K 60p and FHD 120p video </li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>DIGIC X image processor/XQD</li><li>20MP full-frame CMOS sensor</li><li>5-axis image stabilization</li><li>Record 10-bit 4K 60p and FHD 120p video </li></ul>"
     } , 
     {
         "id": 22,
@@ -311,9 +302,9 @@
         "value": "canon eos m50 mark II camera",
         "category1": "cameras",
         "category2": "mirrorless-camera",
-        "file": "Canon EOS M50 Mark II.docx",
+        "file": "Canon EOS M50 Mark II Camera.docx",
         "price": "1000$",
-        "description": "fffff",
+        "description": "<h4>APS-C 24.1MP CMOS sensor and DIGIC 8 image processor</h4><p>Both a 24.1MP APS-C CMOS sensor and DIGIC 8 image processor are used to deliver high-sensitivity, fast camera performance suitable for still and video shooting. The ISO range spans from 100-25600 with an expandable setting of ISO 51200 suitable for a variety of lighting conditions.</p><h4>Machine design and wireless connection set</h4><div class='single-product-image'><img src='assets/images/products/mirrorless camera 2.1.jpg' alt=''></div><p>Dual Pixel CMOS AF on the Canon EOS M50 II provides fast and smooth focusing performance similar to how a camcorder focuses. This system integrates two individual photodiodes in each pixel to provide a wide and dense network that collects phase detection elements across the majority of the sensor. This reduces focus hunting for faster and more direct control of focus position</p><img src='assets/images/products/mirrorless camera 2.2.jpg' alt=''></div>",
         "thumbnail": "canon-eos-m50-mark-ii-2-500x500.jpg", 
         "listThumbnail": [
           "canon-eos-m50-mark-ii-2-500x500.jpg",
@@ -332,8 +323,7 @@
                 "Anti-Vibration": "Digital, 5-Axis (Video Only)",
                 "Lens Mount": "Canon EF-M"                                        
             },
-            "feature": "<ul><li>DIGIC 8 image processor</li><li>24.1MP APS-C CMOS sensor</li><li>Dual Pixel CMOS AF with Eye Detect AF</li><li>Record UHD 4K and HD 720p120 video </li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>DIGIC 8 image processor</li><li>24.1MP APS-C CMOS sensor</li><li>Dual Pixel CMOS AF with Eye Detect AF</li><li>Record UHD 4K and HD 720p120 video </li></ul>"
     } 
     , 
     {
@@ -342,9 +332,9 @@
         "value": "canon eos r5 camera",
         "category1": "cameras",
         "category2": "mirrorless-camera",
-        "file": "Canon EOS R5.docx",
+        "file": "Canon EOS R5 Camera.docx",
         "price": "3000$",
-        "description": "fffff",
+        "description": "<h4>Canon EOS R5 - 45MP Full-frame sensor & DIGIC X image processing chip</h4><p>Canon R5 owns a 45MP Full-frame sensor designed and developed by Canon itself, providing high resolution images and videos. Combined with the DIGIC X processor that previously appeared on the 1DX III, the Canon EOS R5 can provide fast data reading and processing capabilities.</p><h4>Some design features of the Canon EOS R5</h4><div class='single-product-image'><img src='assets/images/products/mirrorless camera 3.1.jpg' alt=''></div><p>The Canon EOS R5 uses a second generation Dual Pixel CMOS focusing system with 1053 selectable focus points, covering 100% of the frame and providing fast, smooth focusing performance. Touch AF is also an advantage, this feature allows users to change the focus point by touching directly on the touch screen.</p><img src='assets/images/products/mirrorless camera 3.2.jpg' alt=''></div>",
         "thumbnail": "canon-eos-r5-1-500x500.jpg", 
         "listThumbnail": [
           "canon-eos-r5-1-500x500.jpg",
@@ -363,8 +353,7 @@
                 "Anti-Vibration": " Sensor-Shift, 5-Axis",
                 "Lens Mount": " Canon RF"                                                   
             },
-            "feature": "<ul><li>45MP full-frame CMOS sensor</li><li>Continuous shooting at 12 fps with mechanical shutter, 20 fps with electronic shutter</li><li>5-axis image stabilization (IBIS)</li><li>Video recording 8K 30 fps, 4K 120 fps, 4K 60 fps </li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>45MP full-frame CMOS sensor</li><li>Continuous shooting at 12 fps with mechanical shutter, 20 fps with electronic shutter</li><li>5-axis image stabilization (IBIS)</li><li>Video recording 8K 30 fps, 4K 120 fps, 4K 60 fps </li></ul>"
     }    , 
     {
         "id": 24,
@@ -372,9 +361,9 @@
         "value": "nikon z6 II camera",
         "category1": "cameras",
         "category2": "mirrorless-camera",
-        "file": "Nikon Z6 II.docx",
+        "file": "Nikon Z6 II Camera.docx",
         "price": "2000$",
-        "description": "fffff",
+        "description": "<h4>Full-frame BSI CMOS 24.5MP sensor and Dual Expeed image processor</h4><p>Nikon Z6 II is the successor to the Nikon Z6 mirrorless camera. Like the Nikon Z6, the Nikon Z6 II is designed entirely with Magnesium alloy to create sturdiness, durability, and comfort for the user. The camera is equipped with a 3.2-inch LCD screen, 2.1 million pixels combined with convenient buttons during use.</p><h4>Design of Nikon Z6 II</h4><div class='single-product-image'><img src='assets/images/products/mirrorless camera 4.1.jpg' alt=''></div><p>The Z6 II's continuous shooting speed increases to an impressive 14 fps when using a single AF point and 12 fps when selecting an AF point or tracking a subject. Nikon Z6 II is capable of recording UHD 4K 30p video and recording Full HD 1080p video allowing users to unleash their creativity. Thanks to the sensor and image processor combined in the camera, it helps create videos with high resolution, sharp and realistic images.</p><img src='assets/images/products/mirrorless camera 4.2.jpg' alt=''></div>",
         "thumbnail": "nikon-z6-ii-lens-z-24-70mm-f4-s-500x500.jpg", 
         "listThumbnail": [
           "nikon-z6-ii-lens-z-24-70mm-f4-s-500x500.jpg",
@@ -393,8 +382,7 @@
                 "Anti-Vibration": " Sensor-Shift, 5-Axis",
                 "Lens Mount": " Nikon Z"                                                 
             },
-            "feature": "<ul><li>EXPEED image processor</li><li>24.5MP FX-format BSI CMOS sensor</li><li>Continuous shooting at 14fps, ISO 60-51200</li><li>UHD 4K30 Video </li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>EXPEED image processor</li><li>24.5MP FX-format BSI CMOS sensor</li><li>Continuous shooting at 14fps, ISO 60-51200</li><li>UHD 4K30 Video </li></ul>"
     }    ,
     {
         "id": 25,
@@ -402,9 +390,9 @@
         "value": "nikon z7 II camera",
         "category1": "cameras",
         "category2": "mirrorless-camera",
-        "file": "Nikon Z7 II.docx",
+        "file": "Nikon Z7 II Camera.docx",
         "price": "2500$",
-        "description": "fffff",
+        "description": "<h4>The strong, powerful design of the Nikon Z7 II</h4><p>Retaining the same robust design as the previous two Z-mount cameras, the Z7 II is mostly made from durable magnesium alloy, for extreme weather resistance. Support photographers to shoot in all different conditions while ensuring the best image and video quality. With a deep grip, the Nikon Z7 Mark II feels sturdy, comfortable handheld photography. At the same time, possessing a flexible compact size that allows users to carry the camera with them anywhere is very convenient without worrying about bulky and difficult when moving.</p><h4>Design of Nikon Z7 II</h4><div class='single-product-image'><img src='assets/images/products/mirrorless camera 5.1.jpg' alt=''></div><h4>45.7MP CMOS sensor and Dual EXPEED 6 Image Processor</h4><p>Using a 45.7MP BSI CMOS sensor, this mirrorless camera delivers impressive high-resolution imaging capabilities. The wide sensor size captures more light, supporting bright images even in low-light conditions. Offering an expandable ISO range of up to 64 – 25600 combined with back-illumination technology, the Nikon Z7 II effectively eliminates image noise when shooting with high sensitivity. In contrast to low sensitivity, the camera enhances color contrast, resulting in vivid, realistic images.</p><img src='assets/images/products/mirrorless camera 5.2.jpg' alt=''></div>",
         "thumbnail": "nikon-z7-ii-500x500.jpg", 
         "listThumbnail": [
           "nikon-z7-ii-500x500.jpg",
@@ -423,8 +411,7 @@
                 "Anti-Vibration": " No",
                 "Lens Mount": " Nikon Z"                                                                
             },
-            "feature": "<ul><li>EXPEED 6 image processor</li><li>BSI CMOS FX 45.7MP sensor</li><li>Continuous shooting at 10 fps, ISO 64-25600</li><li>UHD 4K60 Video Recording </li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>EXPEED 6 image processor</li><li>BSI CMOS FX 45.7MP sensor</li><li>Continuous shooting at 10 fps, ISO 64-25600</li><li>UHD 4K60 Video Recording </li></ul>"
     }, 
     {
         "id": 26,
@@ -432,9 +419,9 @@
         "value": "nikon z5 camera",
         "category1": "cameras",
         "category2": "mirrorless-camera",
-        "file": "Nikon Z5.docx",
+        "file": "Nikon Z5 Camera.docx",
         "price": "2000$",
-        "description": "fffff",
+        "description": "<h4>24MP CMOS Sensor & EXPEED 6 Processor</h4><p>The Nikon Z5 possesses a 24.3MP full-frame CMOS sensor combined with the EXPEED 6 image processor to provide fast, accurate processing performance and high image quality. In addition, the ISO range of 100 - 51200 (expandable to 102400) allows users to take photos in all lighting conditions, enhancing noise control, providing clean and detailed photos. In addition, the EXPEED 6 processor also allows continuous shooting at 4.5 frames per second as well as the ability to capture 8MP when recording video.</p><h4>Some other features of Nikon Z5</h4><div class='single-product-image'><img src='assets/images/products/mirrorless camera 6.1.jpg' alt=''></div><p>Not only does it take high-quality photos, the Nikon Z5 also supports UHD 4K video recording (1.7x crop) at up to 30 frames per second and Full-HD 1080p recording at a maximum speed of 60 frames per second. Users can choose the location to store video files on the device's internal memory card or external memory via HDMI output.</p><img src='assets/images/products/mirrorless camera 6.2.jpg' alt=''></div>",
         "thumbnail": "nikon-z5-with-lens-24-200-1-500x500.jpg", 
         "listThumbnail": [
           "nikon-z5-with-lens-24-200-1-500x500.jpg",
@@ -453,8 +440,7 @@
                 "Anti-Vibration": " Sensor-Shift, 5-Axis",
                 "Lens Mount": " Nikon Z"                                                                               
             },
-            "feature": "<ul><li>EXPEED 6 image processor</li><li>24.3MP CMOS sensor</li><li>3.6 million-dot OLED electronic viewfinder</li><li>Record UHD 4K and Full HD videos </li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>EXPEED 6 image processor</li><li>24.3MP CMOS sensor</li><li>3.6 million-dot OLED electronic viewfinder</li><li>Record UHD 4K and Full HD videos </li></ul>"
     }, 
     {
         "id": 27,
@@ -462,9 +448,9 @@
         "value": "sony alpha a7c camera",
         "category1": "cameras",
         "category2": "mirrorless-camera",
-        "file": "Sony Alpha A7C.docx",
+        "file": "Sony Alpha A7C Camera.docx",
         "price": "2000$",
-        "description": "fffff",
+        "description": "<h4>SteadyShot Inside image stabilization technology</h4><p>Sony A7C uses 5-axis SteadyShot Inside image stabilization technology, providing effective anti-shake up to 5 stops, maximum support for both filming and photography needs. This technology helps users more confidently take handheld photos even when shooting with low shutter speeds, or using with third-party lenses via a mount adapter.</p><h4>Design of the Sony Alpha A7C camera</h4><div class='single-product-image'><img src='assets/images/products/mirrorless camera 7.1.jpg' alt=''></div><p>Sony Alpha A7C is equipped with a 24.2MP Full-frame Exmor R CMOS sensor with back-illuminated structure. Together with the BIONZ X image processor, this system improves image quality, delivers high resolution, reduces noise, and increases camera speed. The Sony A7C sensor also provides a high ISO sensitivity range of 100 - 51200 (expandable up to 50 - 204800).</p><img src='assets/images/products/mirrorless camera 7.2.jpg' alt=''></div>",
         "thumbnail": "sony-a7c-black-with-28-60mm-1-500x500.jpg", 
         "listThumbnail": [
           "sony-a7c-black-with-28-60mm-1-500x500.jpg",
@@ -483,8 +469,7 @@
                 "Anti-Vibration": " Sensor-Shift, 5-Axis",
                 "Lens Mount": " Sony E"                                                                                             
             },
-            "feature": "<ul><li>Full-frame 24.2MP sensor</li><li>Continuous shooting at 10 frames/second</li><li>693-point focus system</li><li>Articulating screen </li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Full-frame 24.2MP sensor</li><li>Continuous shooting at 10 frames/second</li><li>693-point focus system</li><li>Articulating screen </li></ul>"
     }, 
     {
         "id": 28,
@@ -492,9 +477,9 @@
         "value": "sony alpha a6400 camera",
         "category1": "cameras",
         "category2": "mirrorless-camera",
-        "file": "Sony Alpha A6400.docx",
+        "file": "Sony Alpha A6400 Camera.docx",
         "price": "1000$",
-        "description": "fffff",
+        "description": "<iframe width='879' height='525' src='https://www.youtube.com/embed/xdhEXr1zw6s' title='Product Feature | Alpha 6400 | Sony | α' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe><h4>Fast Hybrid AF focusing technology</h4><p>Focusing during movie recording is fast and stable thanks to upgraded Fast Hybrid AF technology, keeping the subject in focus smoothly, even when a subject passes in front of the camera. This advanced touch AF functionality makes it a suitable camera choice for many vloggers and video creators who regularly create and upload online content.</p><h4>Design of Sony A6400 ( ILCE-6400 / ILCE-6400L / ILCE-6400M )</h4><div class='single-product-image'><img src='assets/images/products/mirrorless camera 8.1.jpg' alt=''></div><p>The autofocus system on the Alpha a6400 (ILCE-6400 / ILCE-6400L / ILCE-6400M) inherits many technologies from Sony's full-frame camera lines, including the A9, A7R III and A7 III models. The A6400 has 425 phase-detection AF points and 425 contrast-detection AF points densely placed across the entire image area, accounting for about 84% of the image area.</p><img src='assets/images/products/mirrorless camera 8.2.jpg' alt=''></div>",
         "thumbnail": "sony-alpha-a6400-kit-18-135mm-chinh-hang3-500x500.jpg", 
         "listThumbnail": [
           "sony-alpha-a6400-kit-18-135mm-chinh-hang3-500x500.jpg",
@@ -514,8 +499,7 @@
                 "Anti-Vibration": " Yes",
                 "Lens Mount": " Sony E"                                                                                                          
             },
-            "feature": "<ul><li>Full-frame 24.2MP sensor</li><li>ISO range: 100 - 32000 (expandable 100 - 104200)</li><li>Resolution: 24.2MP</li><li>Wireless connection: WiFi, bluetooth </li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Full-frame 24.2MP sensor</li><li>ISO range: 100 - 32000 (expandable 100 - 104200)</li><li>Resolution: 24.2MP</li><li>Wireless connection: WiFi, bluetooth </li></ul>"
     }, 
     {
         "id": 29,
@@ -523,9 +507,9 @@
         "value": "sony alpha a9 mark II camera",
         "category1": "cameras",
         "category2": "mirrorless-camera",
-        "file": "Sony Alpha A9 Mark II.docx",
+        "file": "Sony Alpha A9 Mark II Camera.docx",
         "price": "5000$",
-        "description": "fffff",
+        "description": "<h4>Fast Hybrid AF focusing technology</h4><p>The camera features a 24.2MP Exmor RS BSI CMOS sensor coupled with the BIONZ X image processor for fast and impressive performance. With this sensor, the camera can shoot continuously at 20 frames per second with the electronic shutter or continuously shoot at 10 frames per second with the mechanical shutter. The sensor's back-illuminated design also provides high light sensitivity with ISO ranging from 100 - 51200 and expandable from 50 - 204800. This reduces noise creating high quality images in a variety of lighting conditions together</p><h4>Design of Sony A9 Mark II (ILCE-9M2)</h4><div class='single-product-image'><img src='assets/images/products/mirrorless camera 9.1.jpg' alt=''></div><p>The Fast Hybrid AF system combines 693 phase-detection focus points with 425 contrast detection areas to help quickly and accurately focus on subjects in many lighting conditions. The camera integrates high-density focusing technology combined with focusing algorithms that allow detailed tracking of subject movements.</p><img src='assets/images/products/mirrorless camera 9.2.jpg' alt=''></div>",
         "thumbnail": "sony-alpha-a9-mark-2-chinh-hang-500x500.jpg",  
         "listThumbnail": [
             "sony-alpha-a9-mark-2-chinh-hang-500x500.jpg", 
@@ -544,8 +528,7 @@
                 "Anti-Vibration": " Sensor-Shift, 5-Axis",
                 "Lens Mount": " Sony E"                                                                                                                          
             },
-            "feature": "<ul><li>Sensor: Full-Frame</li><li>ISO range: 100 - 51200 (expandable 50 - 204800)</li><li>Resolution: 24.2MP</li><li>Wireless connection: WiFi, bluetooth </li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Sensor: Full-Frame</li><li>ISO range: 100 - 51200 (expandable 50 - 204800)</li><li>Resolution: 24.2MP</li><li>Wireless connection: WiFi, bluetooth </li></ul>"
     }, 
     {
         "id": 31,
@@ -553,9 +536,9 @@
         "value": "canon powershot g7 X mark III camera",
         "category1": "cameras",
         "category2": "compact-camera",
-        "file": "Canon PowerShot G7 X Mark III.docx",
+        "file": "Canon PowerShot G7 X Mark III Camera.docx",
         "price": "800$",
-        "description": "fffff",
+        "description": "<h4>20.2MP stacked CMOS sensor & DIGIC 8 processor</h4><p>The large 1' 20.2MP stacked CMOS sensor combined with the DIGIC 8 image processor on the G7</p><h4>Design of Canon PowerShot G7 X Mark III Camera</h4><div class='single-product-image'><img src='assets/images/products/compact camera 1.1.jpg' alt=''></div><p>The PowerShot G7 X Mark III camera is a compact camera belonging to Canon's G-series line. With a weight of only 304g combined with two main color tones of black and silver, the G7 X Mark III is the right choice for those looking for a compact camera with a luxurious design. G7</p><img src='assets/images/products/compact camera 1.2.jpg' alt=''></div>",
         "thumbnail": "powershot-g7-x-mark-iii-500x500.jpg",  
         "listThumbnail": [
             "powershot-g7-x-mark-iii-500x500.jpg",
@@ -574,8 +557,7 @@
                 "Anti-Vibration": "Optical",
                 "Lens Mount": "N/A"                                                                                                                      
             },
-            "feature": "<ul><li>4.2x optical zoom (24mm - 100mm)</li><li>4K Video (no crop)</li><li>DIGIC 8 &; 1.0 inch Stacked CMOS Sensor</li><li>Livestream support</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>4.2x optical zoom (24mm - 100mm)</li><li>4K Video (no crop)</li><li>DIGIC 8 &; 1.0 inch Stacked CMOS Sensor</li><li>Livestream support</li></ul>"
     }, 
     {
         "id": 32,
@@ -585,7 +567,7 @@
         "category2": "compact-camera",
         "file": "Canon PowerShot SX70 HS.docx",
         "price": "800$",
-        "description": "fffff",
+        "description": "<h4>20.3MP CMOS Sensor and DIGIC 8 Processor</h4><p>The 20.3MP CMOS sensor combined with the DIGIC 8 image processor, Canon PowerShot SX70 HS delivers impeccable image quality and speed. The camera allows capturing still images at up to 10 fps, recording UHD 4K video and creating time-lapse movies up to 4K right on the camera.</p><h4>Canon PowerShot SX70 HS - Unique design</h4><div class='single-product-image'><img src='assets/images/products/compact camera 2.1.jpg' alt=''></div><p>This perfect combination of sensor and processor helps create sharp frames, minimizing noise so users can shoot even in low light.</p><img src='assets/images/products/compact camera 2.2.jpg' alt=''></div>",
         "thumbnail": "canon-powershot-sx70-hs-500x500.jpg",  
         "listThumbnail": [
             "canon-powershot-sx70-hs-500x500.jpg",
@@ -604,8 +586,7 @@
                 "Anti-Vibration": "Optical stabilization built into the lens",
                 "Lens Mount": "N/A"                                                                                                                                    
             },
-            "feature": "<ul><li>DIGIC 8 image processor</li><li>20.3MP CMOS sensor</li><li>Image stabilization mode</li><li>Up to 10 fps continuous shooting</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>DIGIC 8 image processor</li><li>20.3MP CMOS sensor</li><li>Image stabilization mode</li><li>Up to 10 fps continuous shooting</li></ul>"
     }, 
     {
         "id": 33,
@@ -615,7 +596,7 @@
         "category2": "compact-camera",
         "file": "Sony ZV-1.docx",
         "price": "800$",
-        "description": "fffff",
+        "description": "<h4>Sony ZV-1 camera</h4><p>Featuring a 3.0' flip-out touchscreen and 3-way directional microphone perfect for front-facing recording, the Sony ZV-1 also has features that make Vlogging easier like Product Introduction Settings , Background Blur, Soft Skin Effect and Face Priority auto-exposure functions.</p><h4>Design of Sony ZV-1</h4><div class='single-product-image'><img src='assets/images/products/compact camera 3.1.jpg' alt=''></div><p>Despite its sleek and lightweight design, the Sony ZV-1 is still equipped with a large grip on the right side for easy one-handed recording combined with a front notification light, a larger REC button on the top of the camera, and a hotshoe for attach accessories.</p> <img src='assets/images/products/compact camera 3.2.jpg' alt=''></div>",
         "thumbnail": "sony-zv-1-01-500x500.jpg",  
         "listThumbnail": [
             "sony-zv-1-01-500x500.jpg",
@@ -634,8 +615,7 @@
                 "Anti-Vibration": " Digital, Optical",
                 "Lens Mount": " No"                                                                                                                                              
             },
-            "feature": "<ul><li>Sensor: BSI CMOS 1 inch</li><li>ISO range: 100 to 12800 (Extended: 64 to 25600)</li><li>Resolution: 20MP</li><li>Wireless connection: WiFi, bluetooth</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Sensor: BSI CMOS 1 inch</li><li>ISO range: 100 to 12800 (Extended: 64 to 25600)</li><li>Resolution: 20MP</li><li>Wireless connection: WiFi, bluetooth</li></ul>"
     }, 
     {
         "id": 34,
@@ -643,9 +623,9 @@
         "value": "sony cyber-shot dsc-rx100 mark VII camera",
         "category1": "cameras",
         "category2": "compact-camera",
-        "file": "Sony Cyber-shot DSC-RX100 Mark VII.docx",
+        "file": "Sony Cyber-shot DSC-RX100 Mark VII Camera.docx",
         "price": "1100$",
-        "description": "fffff",
+        "description": "<h4>20.1MP CMOS Sensor & BIONZ X Image Processor</h4><p>Sony RX 100 Mark VII uses an advanced stacked structure with an integrated DRAM chip and an updated 20.1MP 1-inch Exmor RS CMOS sensor on the camera that can deliver outstanding image quality. Sensitivity from ISO 100-12800 can be expanded from 64 - 25600 for extremely fast focusing performance.</p><h4>Design of Sony RX 100 Mark VII</h4><div class='single-product-image'><img src='assets/images/products/compact camera 4.1.jpg' alt=''></div><p>Spanning focal lengths from 24-200mm, the ZEISS Vario-Sonnar T* lens is suitable for photography in a variety of situations. Wide-angle to mid-telephoto lens with flexible zoom range while still maintaining a compact form factor due to its maximum aperture range of f/2.8-4.5.</p><img src='assets/images/products/compact camera 4.2.jpg' alt=''></div>",
         "thumbnail": "sony-alpha-rx100-mark-7-chinh-hang-8-500x500.jpg",  
         "listThumbnail": [
             "sony-alpha-rx100-mark-7-chinh-hang-8-500x500.jpg", 
@@ -664,18 +644,17 @@
                 "Anti-Vibration": " Digital, Optical",
                 "Lens Mount": " N/A"                                                                                                                                                             
             },
-            "feature": "<ul><li>Sensor: BSI CMOS 1 inch</li><li>ISO range: 100 to 12800 (Extended: 64 to 25600)</li><li>Resolution: 20.1MP</li><li>Wireless connection: WiFi, bluetooth</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Sensor: BSI CMOS 1 inch</li><li>ISO range: 100 to 12800 (Extended: 64 to 25600)</li><li>Resolution: 20.1MP</li><li>Wireless connection: WiFi, bluetooth</li></ul>"
     }, 
     {
         "id": 41,
         "name": "Canon EF 70-200mm f/2.8L IS III USM Lens",
         "value": "canon ef 70-200mm f/2.8l is III usm lens",
-        "category1": "cameras-lens",
-        "category2": "dslr-lens",
-        "file": "Canon EF 70-200mm.docx",
+        "category1": "cameras-lenses",
+        "category2": "dslr-lenses",
+        "file": "Canon EF 70-200mm f2.8L IS III USM Lens.docx",
         "price": "1600$",
-        "description": "fffff",
+        "description": "<p>Not only has the exterior design been improved, the Canon EF 70-200mm f/2.8L IS III USM has also been upgraded with an advanced optical structure, supporting optimal image quality improvement, helping photographers unleash your creativity and produce unique works.</p><h4>Canon EF lens focal length 70-200mm, aperture f/2.8</h4><p>This EF mount telephoto lens is designed specifically for Canon Full-Frame format DSLR cameras. However, it can also be used with APS-C models and provides a 112-320mm equivalent focal length range.Constant f/2.8 maximum aperture delivers consistent performance throughout the entire zoom range, for outstanding photography in low-light environments. At the same time, it increases control over depth of field, helping to isolate and highlight the subject from the background, very suitable for taking photos that require good background blur such as portraits, sports, etc.</p><div class='single-product-image'><img src='assets/images/products/dslr-lenses 1.1.jpg' alt=''></div><h4>Uses USM rotating focus motor</h4><p>Canon EF 70-200mm f/2.8L IS III USM is equipped with a USM ultrasonic focus motor for fast, accurate and smooth focusing, ensuring highly detailed and sharp images from the camera. central position to edges and corners. Manual focus override mode is also integrated on this lens to help users quickly change AF and MF settings to create unique frames.</p><div class='single-product-image'><img src='assets/images/products/dslr-lenses 1.2.jpg' alt=''></div>",
         "thumbnail": "Canon EF 70 1.jpg",  
         "listThumbnail": [
             "Canon EF 70 1.jpg",
@@ -701,18 +680,17 @@
                 "Size": "88.8 x 199 mm",
                 "Weight":"1480 g"                                                                                                                                                            
             },
-            "feature": "<ul><li>Anti-vibration: Yes</li><li>Aperture: F/2.8-32</li><li>Closest focusing distance: 1.2m</li><li>Filter size: 77mm</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Anti-vibration: Yes</li><li>Aperture: F/2.8-32</li><li>Closest focusing distance: 1.2m</li><li>Filter size: 77mm</li></ul>"
     }, 
     {
         "id": 42,
         "name": "Canon EF 135mm f2L USM Lens",
         "value": "canon ef 135mm f2l usm lens",
-        "category1": "cameras-lens",
-        "category2": "dslr-lens",
-        "file": "Canon EF 135mm.docx",
+        "category1": "cameras-lenses",
+        "category2": "dslr-lenses",
+        "file": "Canon EF 135mm f2L USM Lens.docx",
         "price": "1000$",
-        "description": "fffff",
+        "description": "<p>As the ideal lens for portrait photography, the mid-telephoto Canon EF 135mm f/2L USM has become an indispensable part of Canon's L series. Long focal length and f/2 maximum aperture allow for fine control over depth of field, using selective focus. At the same time, wide aperture is more beneficial when shooting in low light conditions.</p><h4>Performance is fast and lightweight</h4><p>The lens adds a USM ring-type ultrasonic motor along with a rear focusing system used to deliver quick and quiet autofocus performance. Accordingly, torque helps ensure that focus is achieved accurately. In addition, full-time manual focus control enhances focus control and adjusts available time more effectively. At the same time the ability to adjust focus without leaving AF mode.</p><div class='single-product-image'><img src='assets/images/products/dslr-lenses 2.1.jpg' alt=''></div><br><h4>Quality construction</h4><p>The sturdy, durable lens structure is highly appreciated in Canon's L lens series. The Canon EF 135mm f/2L USM lens is dust and moisture resistant to work stably in harsh environments. The rounded 8-blade diaphragm design contributes to smooth focus quality. It also offers an advantage when used with shallow depth of field and selective focus techniques.</p><div class='single-product-image'><img src='assets/images/products/dslr-lenses 2.2.jpg' alt=''></div>",
         "thumbnail": "Canon EF 135mm f2L USM lens 1.jpg",  
         "listThumbnail": [
             "Canon EF 135mm f2L USM lens 1.jpg", 
@@ -738,18 +716,17 @@
                 "Size": " 82.5 x 112 mm",
                 "Weight":"750 g"                                                                                                                                                           
             },
-            "feature": "<ul><li>Aperture: F/2-32</li><li>Closest focusing distance: 90cm</li><li>Filter size: 72mm</li><li>Number of aperture blades: 08</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Aperture: F/2-32</li><li>Closest focusing distance: 90cm</li><li>Filter size: 72mm</li><li>Number of aperture blades: 08</li></ul>"
     }, 
     {
         "id": 43,
         "name": "Nikon AF-S 50mm F/1.8G Lens",
         "value": "nikon af-s 50mm f/1.8g lens",
-        "category1": "cameras-lens",
-        "category2": "dslr-lens",
-        "file": "Nikon AF-S 50mm.docx",
+        "category1": "cameras-lenses",
+        "category2": "dslr-lenses",
+        "file": "Nikon AF-S 50mm F 1.8G Lens.docx",
         "price": "900$",
-        "description": "fffff",
+        "description": "<h4>Integrated IS optical image stabilizer</h4><p>The lens is equipped with an Image Stabilization optical anti-shake system that provides effective anti-shake capabilities when shooting handheld. At the same time, increasing anti-shake ability up to 3.5 steps helps the lens work better in low light or low shutter speeds. In addition, this anti-shake mechanism also allows reducing the shutter speed to 1/15s but still ensures maximum sharpness for the frame. This is an important function for close-up shots or users who have to frequently change shooting angles.</p><div class='single-product-image'><img src='assets/images/products/dslr-lenses 3.1.jpg' alt=''></div><h4>Take photos with beautiful bokeh effects</h4><p>The sturdy, durable lens structure is highly appreciated in Canon's L lens series. The Canon EF 135mm f/2L USM lens is dust and moisture resistant to work stably in harsh environments. The rounded 8-blade diaphragm design contributes to smooth focus quality. It also offers an advantage when used with shallow depth of field and selective focus techniques. </p><div class='single-product-image'><img src='assets/images/products/dslr-lenses 3.2.jpg' alt=''></div>",
         "thumbnail": "ong-kinh-nikon-50mm-f18g1-500x500.jpg", 
         "listThumbnail": [
             "ong-kinh-nikon-50mm-f18g1-500x500.jpg",
@@ -776,18 +753,17 @@
                 "Size": "72.1 x 52.4 mm",
                 "Weight":"185 g"                                                                                                                                                           
             },
-            "feature": "<ul><li>Anti-vibration: No</li><li>Aperture: F/1.8-16</li><li>Closest focusing distance: 45cm</li><li>Filter size: 58mm</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Anti-vibration: No</li><li>Aperture: F/1.8-16</li><li>Closest focusing distance: 45cm</li><li>Filter size: 58mm</li></ul>"
     }, 
     {
         "id": 44,
         "name": "Nikon AF-S 24-70mm f/2.8E ED VR Nano Lens",
         "value": "nikon af-S 24-70mm f/2.8E ed vr nano lens",
-        "category1": "cameras-lens",
-        "category2": "dslr-lens",
-        "file": "Nikon AF-S 24-70mm.docx",
+        "category1": "cameras-lenses",
+        "category2": "dslr-lenses",
+        "file": "Nikon AF-S 24-70mm f 2.8E ED VR Nano Lenses.docx",
         "price": "1500$",
-        "description": "fffff",
+        "description": "<h4>Lens Design</h4><p>The Nikon AF-S 24-70mm f/2.8E ED VR is a versatile wide-angle to short-angle telephoto  lens  characterized by a constant f/2.8 maximum aperture and electromagnetic aperture mechanism. Designed  for use with FX-format Nikon F-mount cameras, the lens is also compatible with DX models, providing a 36-105mm equivalent focal length range. The fluorine coating on the front and rear parts is resistant to dust and moisture suitable for working in harsh environments.</p><div class='single-product-image'><img src='assets/images/products/dslr-lenses 4.1.jpg' alt=''></div><p>Vibration reduction image stabilization reduces the appearance of camera shake by up to four stops to maximize shooting in a variety of lighting conditions.</p><div class='single-product-image'><img src='assets/images/products/dslr-lenses 4.2.jpg' alt=''></div>",
         "thumbnail": "nikon-af-s-24-70mm-f28e-ed-vr-nano-1-500x500.jpg",   
         "listThumbnail": [
             "nikon-af-s-24-70mm-f28e-ed-vr-nano-1-500x500.jpg ",
@@ -813,18 +789,17 @@
                 "Size": "88 x 154.5 mm",
                 "Weight":"1070 g"                                                                                                                                                           
             },
-            "feature": "<ul><li>Format: Nikon F-Mount / FX</li><li>Aperture: f/2.8 - f/22</li><li>Nano Crystal & Super Integrated Coating</li><li>ED glass element is aspherical</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Format: Nikon F-Mount / FX</li><li>Aperture: f/2.8 - f/22</li><li>Nano Crystal & Super Integrated Coating</li><li>ED glass element is aspherical</li></ul>"
     }, 
     {
         "id": 45,
         "name": "Nikon AF-S 70-200mm f/2.8E FL ED VR Lens",
         "value": "nikon af-s 70-200mm f/2.8e fl ed vr lens",
-        "category1": "cameras-lens",
-        "category2": "dslr-lens",
-        "file": "Nikon AF-S 70-200mm.docx",
+        "category1": "cameras-lenses",
+        "category2": "dslr-lenses",
+        "file": "Nikon AF-S 70-200mm f 2.8E FL ED VR Lens.docx",
         "price": "1200$",
-        "description": "fffff",
+        "description": "<h4>Focus quickly</h4><p>The Silent Wave Motor delivers fast, quiet, and precise autofocus performance along with full-time manual focus control. An internal focusing design is also used, which maintains the overall length of the lens and supports faster focusing speeds. Four focus buttons are equipped on the lens for easy AF Lock activation.</p><div class='single-product-image'> <img src='assets/images/products/dslr-lenses 5.1.jpg' alt=''></div><p>The minimum focusing distance of the lens has been shortened from 1.4 m to 1.1 m. At the same time, the zoom capability increases from 0.11x to 0.21x for improved performance. As a result, you can get closer to subjects to focus, resulting in images similar to close-up shots.</p><h4>Design of Nikon AF-S NIKKOR 70-200mm f/2.8E FL ED VR</h4><p>The Nikon AF-S NIKKOR 70-200mm f/2.8E FL ED VR lens is a DSLR lens designed for use with Nikon FX sensor cameras. This lens can also be used with DX sensors, providing a 105-300mm equivalent focal length. The sealed design and magnesium alloy construction allow the Nikon AF-S NIKKOR 70-200mm f/2.8E FL ED VR to withstand dust and moisture when working in harsh environments.</p><div class='single-product-image'> <img src='assets/images/products/dslr-lenses 5.2.jpg' alt=''></div>",
         "thumbnail": "nikon-af-s-nikkor-70-200mm-f28e-fl-ed-vr-1-500x500.jpg", 
         "listThumbnail": [
             "nikon-af-s-nikkor-70-200mm-f28e-fl-ed-vr-1-500x500.jpg",
@@ -850,18 +825,17 @@
                 "Size": "88.5 x 202.5 mm",
                 "Weight":"1430 g"                                                                                                                                                          
             },
-            "feature": "<ul><li>Format: Nikon F-Mount / FX</li><li>Aperture: f/2.8 - f/22</li><li>Six extra-low dispersion elements</li><li>Fluorite lenses and HRI</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Format: Nikon F-Mount / FX</li><li>Aperture: f/2.8 - f/22</li><li>Six extra-low dispersion elements</li><li>Fluorite lenses and HRI</li></ul>"
     }, 
     {
         "id": 51,
         "name": "Canon RF 50mm f/1.2L USM Lens",
         "value": "canon rf 50mm f/1.2l usm lens",
-        "category1": "cameras-lens",
-        "category2": "mirrorless-lens",
-        "file": "Canon RF 50mm.docx",
+        "category1": "cameras-lenses",
+        "category2": "mirrorless-lenses",
+        "file": "Canon RF 50mm f 1.2L USM Lens.docx",
         "price": "1400$",
-        "description": "fffff",
+        "description": "<h4>Ability to capture eye-catching Bokeh effects</h4><p>Designed with 10 rounded aperture blades, the Canon RF 50mm helps photographers possess the most sparkling and quality bokeh images.</p><div class='single-product-image'> <img src='assets/images/products/mirrorless-lenses 1.1.jpg' alt=''><br><br><h4>50mm fixed focal length lens, F/1.2 aperture</h4><p>The Canon RF 50mm f/1.2L USM is a 50mm fixed focal length lens with full-frame optical performance that delivers images with greater sharpness and detail. The aperture can be opened to F/1.2 to help highlight the subject, giving the best image quality, suitable for filmmakers or photographers shooting with a thin depth of field.</p><div class='single-product-image'> <img src='assets/images/products/mirrorless-lenses 1.2.jpg' alt=''><p>With a focal length of 50mm and flexible aperture up to F/1.2, users can take a variety of photos with many different styles even in difficult lighting conditions such as street photography...</p>",
         "thumbnail": "canon-rf-50mm-f12l-usm-1-500x500.jpg", 
         "listThumbnail": [
             "canon-rf-50mm-f12l-usm-1-500x500.jpg",
@@ -887,18 +861,17 @@
                 "Size": "89.8 x 108 mm",
                 "Weight":"950 g"                                                                                                                                                        
             },
-            "feature": "<ul><li>Ring-shaped ultrasonic focusing motor</li><li>Aperture: f/1.2 - f/16</li><li>One UD lens, One aspherical lens</li><li>RF/Full-Frame Lens</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Ring-shaped ultrasonic focusing motor</li><li>Aperture: f/1.2 - f/16</li><li>One UD lens, One aspherical lens</li><li>RF/Full-Frame Lens</li></ul>"
     }, 
     {
         "id": 52,
         "name": "Canon RF 85mm f/2 Macro IS STM Lens",
         "value": "canon rf 85mm f/2 macro is stm lens",
-        "category1": "cameras-lens",
-        "category2": "mirrorless-lens",
-        "file": "Canon RF 85mm.docx",
+        "category1": "cameras-lenses",
+        "category2": "mirrorless-lenses",
+        "file": "Canon RF 85mm f2 Macro IS STM Lens.docx",
         "price": "500$",
-        "description": "fffff",
+        "description": "<h4>Highlights of the Canon RF 85mm f/2 Macro IS STM lens</h4><p>Portrait prime lens designed for use with Canon RF FullFrame mirrorless cameras. Compact f/2 maximum aperture helps maintain a pleasing overall appearance while also benefiting working in available light conditions. The macro design is beneficial when working with close-up subjects and provides a maximum magnification of 1:2 at a minimum focusing distance of 35cm. Optical image stabilization reduces shake by up to 5 stops to enable better working in low light conditions and slow shutter speeds. The Hybrid IS setting compensates for angular movements and shift patterns that are especially beneficial for close-up shooting. The STM stepping focus motor delivers fast, smooth, precise, and quiet AF performance that is ideal for video or still photography.</p><div class='single-product-image'><img src='assets/images/products/mirrorless-lenses 2.1.jpg' alt=''><br><br><p>STM stepping motor delivers quiet, smooth AF performance and full-time manual focus. To produce sharp images, this lens also features optical image stabilization along with Hybrid IS that can reduce camera shake by up to 5 stops for clearer and steadier shots.</p><div class='single-product-image'><img src='assets/images/products/mirrorless-lenses 2.2.jpg' alt=''><p>Additionally, UD (Ultra low Dispersion) lenses are also used in the optical design to reduce aberrations and ensure clarity. Additionally, a configurable control ring lets you adjust exposure settings including ISO, aperture, and exposure compensation from the lens itself. </p>",
         "thumbnail": "canon-rf-85mm-f2-macro-is-stm-lens-1-500x500.jpg", 
         "listThumbnail": [
             "canon-rf-85mm-f2-macro-is-stm-lens-1-500x500.jpg", 
@@ -924,18 +897,17 @@
                 "Size": "78 x 90.5 mm",
                 "Weight":"500 g"                                                                                                                                                   
             },
-            "feature": "<ul><li>FullFrame/RF-Mounts Lens format</li><li>Maximum magnification: 1:2</li><li>Closest focusing distance: 35.05cm</li><li>UD lens</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>FullFrame/RF-Mounts Lens format</li><li>Maximum magnification: 1:2</li><li>Closest focusing distance: 35.05cm</li><li>UD lens</li></ul>"
     }, 
     {
         "id": 53,
         "name": "Nikon Z 24-70mm f/2.8 S Lens",
         "value": "nikon z 24-70mm f/2.8 s lens",
-        "category1": "cameras-lens",
-        "category2": "mirrorless-lens",
-        "file": "Nikon Z 24.docx",
+        "category1": "cameras-lenses",
+        "category2": "mirrorless-lenses",
+        "file": "Nikon Z 24-70mm f2.8 S Lens.docx",
         "price": "1500$",
-        "description": "fffff",
+        "description": "<h4>Multi-point focus system</h4><p>This system allows the lens to control focus accurately and quickly, even when the subject is moving. The lens uses a stepping motor, providing smooth and quiet focusing performance, suitable for still photography or video recording in situations where quiet space is required.</p><p>With a built-in manual focus override feature, the Nikon Z 24-70mm f/2.8 S has the ability to flexibly switch between AF and MF focus modes so that the photographer can capture the image as desired. best.</p><div class='single-product-image'><img src='assets/images/products/mirrorless-lenses 3.1.jpg' alt=''></div><p>This mirrorless lens is equipped with a control wheel that can be customized for manual focusing or can also be used to set parameters such as aperture or exposure compensation.</p><h4>Create eye-pleasing, eye-pleasing bokeh images</h4><p>Nikon Z 24-70mm F2.8 S with an aperture diaphragm structure consisting of nine rounded blades provides comfortable focusing quality, creating a shallow depth of field, providing photos with impressive bokeh effects.</p><div class='single-product-image'><img src='assets/images/products/mirrorless-lenses 3.2.jpg' alt=''></div>",
         "thumbnail": "nikon-z-24-70mm-f-2-8-s-500x500.jpg",  
         "listThumbnail": [
             "nikon-z-24-70mm-f-2-8-s-500x500.jpg",   
@@ -961,18 +933,17 @@
                 "Size": "78 x 90.5 mm",
                 "Weight":"500 g"                                                                                                                                                   
             },
-            "feature": "<ul><li>Two ED lenses and four aspherical lenses</li><li>ARNEO and Nano Crystal coating</li><li>Z mount lens / FX format</li><li>Aperture range: f/2.8 to f/22</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Two ED lenses and four aspherical lenses</li><li>ARNEO and Nano Crystal coating</li><li>Z mount lens / FX format</li><li>Aperture range: f/2.8 to f/22</li></ul>"
     }, 
     {
         "id": 54,
         "name": "Nikon Z 85mm f/1.8 S Lens",
         "value": "nikon z 85mm f/1.8 s lens",
-        "category1": "cameras-lens",
-        "category2": "mirrorless-lens",
-        "file": "Nikon Z 85mm.docx",
+        "category1": "cameras-lenses",
+        "category2": "mirrorless-lenses",
+        "file": "Nikon Z 85mm f1.8 S Lens.docx",
         "price": "600$",
-        "description": "fffff",
+        "description": "<h4>Step motion focus technology</h4><p>Using stepping motion focus technology to provide quiet and smooth autofocus quality, the Nikon Z 85mm f/1.8 S is suitable for use in shooting situations that require a very quiet space. In addition to fast and accurate autofocus, this mirrorless lens also integrates a manual focus override mode that allows users to flexibly switch between AF and MF modes to capture focused images.</p><div class='single-product-image'><img src='assets/images/products/mirrorless-lenses 4.1.jpg' alt=''></div></br><h4>Create beautiful Bokeh effects</h4><p>The diaphragm consists of 9 rounded blades and a maximum aperture of f/1.8, providing beautiful bokeh quality and shallow depth of field.</p><div class='single-product-image'><img src='assets/images/products/mirrorless-lenses 4.2.jpg' alt=''></div>",
         "thumbnail": "ong-kinh-nikon-nikkor-z-85mm-f18-s-1-500x500.jpg",   
         "listThumbnail": [
             "ong-kinh-nikon-nikkor-z-85mm-f18-s-1-500x500.jpg",   
@@ -998,18 +969,17 @@
                 "Size": "78 x 90.5 mm",
                 "Weight":" 470 g"                                                                                                                                                  
             },
-            "feature": "<ul><li>Nano Crystal Technology & Super Integrated Coatings</li><li>Focus quickly and accurately</li><li>Aperture range: f/1.8 to f/16</li><li>Compatible with Z mount / FX format lenses</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Nano Crystal Technology & Super Integrated Coatings</li><li>Focus quickly and accurately</li><li>Aperture range: f/1.8 to f/16</li><li>Compatible with Z mount / FX format lenses</li></ul>"
     }, 
     {
         "id": 61,
         "name": "Fujifilm GF 32-64mm f/4 R LM WR Lens",
         "value": "fujifilm gf 32-64mm f/4 r lm wr Lens",
-        "category1": "cameras-lens",
-        "category2": "medium-lens",
-        "file": "Fujifilm GF 32.docx",
+        "category1": "cameras-lenses",
+        "category2": "medium-lenses",
+        "file": "Fujifilm GF 32-64mm f4 R LM WR Lens.docx",
         "price": "1700$",
-        "description": "fffff",
+        "description": "<h4>FUJIFILM GF 32-64mm f/4 wide-angle zoom Lens</h4><p>FUJIFILM GF 32-64mm f/4 R LM WR belongs to Fujifilm's G-mount medium format lens line , providing a 25-51mm equivalent focal length allowing photography of many genres, in many different situations. Constant f/4 maximum aperture provides consistent shooting performance throughout the entire zoom range, resulting in images that are always bright and noise-free in dark conditions.</p><div class='single-product-image'><img src='assets/images/products/medium-lenses 1.1.jpg' alt=''></div><h4>The autofocus system is fast and smooth</h4><p>Integrating an internal focusing mechanism with a linear autofocus motor, the lens provides fast, smooth, and silent focusing performance, helping users capture every moment of life and preserve it. with quality frames and footage.</p><div class='single-product-image'><img src='assets/images/products/medium-lenses 1.2.jpg' alt=''></br></br><p>The 9-blade circular aperture diaphragm provides a rounded, eye-pleasing bokeh quality with the subject highlighted in the background and out-of-focus areas displayed smoothly and comfortably.</p>",
         "thumbnail": "fujifilm-gf-32-64mm-f4-r-lm-wr-chinh-hang-500x500.jpg",   
         "listThumbnail": [
             "fujifilm-gf-32-64mm-f4-r-lm-wr-chinh-hang-500x500.jpg",   
@@ -1035,18 +1005,17 @@
                 "Size": "92.6 x 116 mm",
                 "Weight":"875 g"                                                                                                                                                  
             },
-            "feature": "<ul><li>Anti-vibration: No</li><li>Aperture: F4-32</li><li>Closest focusing distance: 50mm</li><li>Filter size: 77mm</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Anti-vibration: No</li><li>Aperture: F4-32</li><li>Closest focusing distance: 50mm</li><li>Filter size: 77mm</li></ul>"
     }, 
     {
         "id": 62,
         "name": "Fujifilm GF 250mm f/4 R LM OIS WR Lens",
         "value": "fujifilm gf 250mm f/4 r lm ois wr lens",
-        "category1": "cameras-lens",
-        "category2": "medium-lens",
-        "file": "Fujifilm GF 250mm.docx",
+        "category1": "cameras-lenses",
+        "category2": "medium-lenses",
+        "file": "Fujifilm GF 250mm f4 R LM OIS WR Lens.docx",
         "price": "1700$",
-        "description": "fffff",
+        "description": "<p>A mid-telephoto prime with a sophisticated optical design, the Fujifilm GF 250mm f/4 R LM OIS WR is part of the G-mount GFX camera system. It offers a combination of reach and far with a relatively bright maximum aperture of f.4. Enhanced image resolution combined with Fujifilm's exclusive optical technology makes this lens the right choice when working with genres that require shallow depth of field. </p><h4>Focus performance</h4><p>Linear AF motor is used for quick, quiet focusing performance. It has an internal focusing mechanism that maintains the overall length of the lens during operation. Consistent optical performance delivers consistent image quality throughout the entire focusing range.</p><div class='single-product-image'><img src='assets/images/products/medium-lenses 2.1.jpg' alt=''></div><p>Additionally, a newly updated mechanism that fixes the linear motor position when power is turned off or playback allows the focus position to be fixed. In addition, the optical image stabilization system compensates for camera shake up to 5 stops to help reduce camera shake when shooting handheld, thereby creating sharper images.</p><h4>Quality lenses</h4><p>This lens includes 16 elements in 10 groups. Its optical design incorporates one Super ED element and two extra-low chromatic dispersion elements to reduce chromatic aberrations and color fringing across the entire aperture and focus range for clarity and color fidelity remarkable. It allows shooting at a minimum focal length of 1.4m, a maximum magnification ratio of 0.22x and remote macro shooting with large bokeh effects. Additionally, a water-resistant fluorine coating applied to the lens helps block moisture.</p><div class='single-product-image'><img src='assets/images/products/medium-lenses 2.2.jpg' alt=''></div>",
         "thumbnail": "fujifilm-gf-250mm-f4-r-lm-ois-wr-chinh-hang-500x500.jpg",    
         "listThumbnail": [
             "fujifilm-gf-250mm-f4-r-lm-ois-wr-chinh-hang-500x500.jpg",    
@@ -1072,18 +1041,17 @@
                 "Size": "108 x 203.5 mm",
                 "Weight":"1.42 kg"                                                                                                                                                
             },
-            "feature": "<ul><li>Aperture: F/4-32</li><li>Closest focusing distance: 1.4m</li><li>Filter size: 82mm</li><li>Focal length: 250mm</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Aperture: F/4-32</li><li>Closest focusing distance: 1.4m</li><li>Filter size: 82mm</li><li>Focal length: 250mm</li></ul>"
     }, 
     {
         "id": 63,
-        "name": "Fujifilm GF 45-100mm f/4 R LM OIS WR Lens",
+        "name": "Fujifilm GF 45-100mm f/ R LM OIS WR Lens",
         "value": "fujifilm GF 45-100mm f/4 r lm ios wr lens",
-        "category1": "cameras-lens",
-        "category2": "medium-lens",
-        "file": "Fujifilm GF 45.docx",
+        "category1": "cameras-lenses",
+        "category2": "medium-lenses",
+        "file": "Fujifilm GF 45-100mm f4 R LM OIS WR Lens.docx",
         "price": "1900$",
-        "description": "fffff",
+        "description": "<h4>Fujifilm GF 45-100mm f/4 R LM OIS WR - Versatile zoom lens</h4><p>The Fujifilm GF 45-100mm f/4 R LM OIS WR lens is an essential zoom lens for Fujifilm GFX cameras. It is considered a highly versatile lens by providing a focal length range equivalent to 36-79mm on a 35mm format camera (the most frequently used focal range). </p><div class='single-product-image'><img src='assets/images/products/medium-lenses 3.1.jpg' alt=''></div><p>Whether capturing majestic landscapes, emotional portraits or creative still lifes, the Fujifilm GF 45-100mm f4 R LM OIS WR lens will make your subject truly shine.</p><h4>Focus motor is fast and silent</h4><p>Confidently shoot in any situation without fear of missing out or affecting the surrounding space. With a linear AF motor, the Fujifilm GF 45-100mm f/4 R LM OIS WR lens is capable of fast, accurate, and nearly silent autofocus. The lens ' internal focusing system also contributes to its lighter weight design, enhancing its operability.</p><div class='single-product-image'><img src='assets/images/products/medium-lenses 3.2.jpg' alt=''></div></br><p>maximum aperture delivers outstanding low-light performance, as well as stunning bokeh in any scene.</p>",
         "thumbnail": "fujifilm-gf-45-100mm-f4-r-lm-ois-wr-3-500x500.jpg",    
         "listThumbnail": [
             "fujifilm-gf-45-100mm-f4-r-lm-ois-wr-3-500x500.jpg", 
@@ -1109,8 +1077,7 @@
                 "Size": "93 x 144.5 mm",
                 "Weight":"1005 g"                                                                                                                                              
             },
-            "feature": "<ul><li>Aperture: F/4-32</li><li>Closest focusing distance: 1.4m</li><li>Filter size: 82mm</li><li>Focal length: 250mm</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Aperture: F/4-32</li><li>Closest focusing distance: 1.4m</li><li>Filter size: 82mm</li><li>Focal length: 250mm</li></ul>"
     }, 
     {
         "id": 71,
@@ -1120,7 +1087,7 @@
         "category2": "hi-end-sound",
         "file": "MARSHALL WOBURN II BLUETOOTH SPEAKER.docx",
         "price": "400$",
-        "description": "fffff",
+        "description": "<h4>Features of Marshall Woburn II bluetooth speaker</h4><p>Marshall Woburn II Bluetooth speaker is equipped with Bluetooth 5.0 for better wireless transmission quality, longer connection distance. DSP (digital signal processor) is upgraded to improve sound quality as well as limit distortion when increasing or decreasing bass/treble directly on the speaker. The new feature that Marshall equips on Woburn II is multi-host that allows users to quickly connect between 2 speakers together into a stereo speaker system. Besides the manual knobs, you can now also use the Marshall App on your phone to adjust EQ, switch tracks, adjust LED brightness (top) as well as turn speaker on or off (Standby) easily.</p><h4>Marshall Woburn II's connectivity</h4><div class='single-product-image'><img src='assets/images/products/hi-end-sound 1.1.jpg' alt=''></div><p>Marshall Woburn II wireless or wired connection. In addition to Bluetooth, there are many ways to connect to the Marshall Woburn II. You can use a 3.5mm jack or RCA with your preferred analog sources. Multiple transmitters can connect to Woburn II, and you can easily switch between them</p><h4>Music playing capabilities of the Marshall Woburn II speaker</h4><div class='single-product-image'> <img src='assets/images/products/hi-end-sound 1.2.jpg' alt=''></div><p>Marshall Woburn II speakers fill large rooms with sound Marshall has upgraded the internal drivers and more powerful Class D amplifiers, so that the speaker has a power of ~130W including: 2 woofers and 2 tweeters and reaches a peak threshold of over 200 Watts, more than enough to fill the sound for large living rooms.</p>",
         "thumbnail": "loa-marshall-woburn-2.webp",    
         "listThumbnail": [
             "loa-marshall-woburn-2.webp",
@@ -1135,8 +1102,7 @@
                 "Size": "400 x 310 x 200 mm",
                 "Weight":"8,55 kg"                                                                                                                                             
             },
-            "feature": "The Woburn II hits the highs cleanly, handles the low bass with ease, and has a clear, lifelike midrange. Bluetooth 5.0 and aptX technology provides lossless wireless audio at a range of up to 30 feet while maintaining connectivity",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "The Woburn II hits the highs cleanly, handles the low bass with ease, and has a clear, lifelike midrange. Bluetooth 5.0 and aptX technology provides lossless wireless audio at a range of up to 30 feet while maintaining connectivity"
     }, 
     {
         "id": 72,
@@ -1144,9 +1110,9 @@
         "value": "harman kardon allure bluetooth speaker",
         "category1": "pro-audio",
         "category2": "hi-end-sound",
-        "file": "MARSHALL WOBURN II BLUETOOTH SPEAKER.docx",
+        "file": "HARMAN KARDON ALLURE BLUETOOTH SPEAKER.docx",
         "price": "200$",
-        "description": "fffff",
+        "description": "<h4>Harman Kardon Allure speakers</h4><p>The Harman Kardon  Allure portable speaker  launched in 2017 at this year's IFA uses voice control based on Amazon Alexa, Google Assistant, Microsoft Cortana and Apple Siri. </p><div class='single-product-image'> <img src='assets/images/products/hi-end-sound 2.1.jpg' alt=''></div><p>Allure 360-degree format like previous Harman speakers such as the  Harman Aura 2 speaker line  promises to bring Harman's signature quality and extremely good coverage of space in the room. Along with Alexa 's intelligence   through voice control, it comes with extremely good sound recording capabilities, including 4  microphones  with noise cancellation and sound recording functions at quite a distance; You just need to 'command' to play music, read news, control smarthome.</p><div class='single-product-image'> <img src='assets/images/products/hi-end-sound 2.2.jpg' alt=''></div><p>Harman Kardon Allure is also equipped with  ambient lighting  depending on the mode and song being played.</p>",
         "thumbnail": "harman-kardon-allure-voice-activated-home-speaker-with-alexa-1.webp",    
         "listThumbnail": [
             "harman-kardon-allure-voice-activated-home-speaker-with-alexa-1.webp",
@@ -1161,8 +1127,7 @@
                 "Size": "200 x 110 x 200 mm",
                 "Weight": "2,5 kg"                                                                                                                              
             },
-            "feature": "Allure is a portable 360 surround sound desktop speaker. The speaker is equipped with 4 microphones for voice recognition. The speaker includes 3 38mm drivers and 1 sub bass driver",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "Allure is a portable 360 surround sound desktop speaker. The speaker is equipped with 4 microphones for voice recognition. The speaker includes 3 38mm drivers and 1 sub bass driver"
     }
     , 
     {
@@ -1171,9 +1136,9 @@
         "value": "samsung q-sounbar Q700b/xv soundbar",
         "category1": "pro-audio",
         "category2": "hi-fi-sound",
-        "file": "Samsung Q-SOUNDBAR Q700B/XV soundbar.docx",
+        "file": "Samsung Q-SOUNDBAR Q700BXV soundbar.docx",
         "price": "400$",
-        "description": "fffff",
+        "description": "<h4>Samsung Q-Soundbar Q700B/XV Soundbar - Vivid sound</h4><p>Samsung Q-Soundbar Q700B/XV sound bar was launched in 2021 from the Korean brand, is owned by many people with stable quality, diverse sound colors that catch listeners' ears, will help you solve problems. relieve stressful times. Promises to be a valuable speaker</p><h4>Simple design with many modern technologies</h4><p>The Samsung Q-Soundbar Q700B/XV speaker is dressed in an attractive and powerful black color, combining with any outdoor or indoor space. Suitable for places with classic to modern designs. There is also a sturdy, sturdy shell made from plastic and metal. The speaker is also easy to disassemble for cleaning.</p><div class='single-product-image'> <img src='assets/images/products/hi-fi-sound 1.1.jpg' alt=''></div><p>The bar speaker is designed by the manufacturer with a soundbar audio system, which will have up to 8 speakers combined with a wireless speaker device. Helps you place it in any position you want to experience attractive melodies.</p><h4>Diverse connection system and remote intelligent control</h4><div class='single-product-image'> <img src='assets/images/products/hi-fi-sound 1.2.jpg' alt=''></div><p>The Samsung HW-Q700A soundbar can be connected to a variety of TV devices or HDMI, wifi, and Bluetooth ports. Furthermore, this sound bar can be connected to a handheld gaming device, helping users to be satisfied with the vivid sound of games.</p><div class='single-product-image'><img src='assets/images/products/hi-fi-sound 1.3.jpg' alt=''></div><p>The speaker device comes with a remote, you can set it up to your liking and connect it to your smartphone for control from further places. Convenient for you to adjust when doing other jobs.</p>",
         "thumbnail": "19_2_54.webp",    
         "listThumbnail": [
             "19_2_54.webp",
@@ -1188,18 +1153,17 @@
                 "Audio technology": "Q-Symphony, Acoustic Beam",
                 "Weight": "5.9 kg"                                                                                                                                             
             },
-            "feature": "<ul><li>Wireless Dolby Atmos surround sound technology helps enjoy ultimate music. </li><li>Total speaker power up to 330 W delivers vibrant and explosive sound quality</li><li>Q-Symphony technology helps synchronize with TV speakers for a perfect listening experience</li><li>Very diverse connection with other devices through HDMI, WiFi, Bluetooth communication ports.</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Wireless Dolby Atmos surround sound technology helps enjoy ultimate music. </li><li>Total speaker power up to 330 W delivers vibrant and explosive sound quality</li><li>Q-Symphony technology helps synchronize with TV speakers for a perfect listening experience</li><li>Very diverse connection with other devices through HDMI, WiFi, Bluetooth communication ports.</li></ul>"
     }    , 
     {
         "id": 82,
-        "name": "Samsung S-SOUNDBAR S61B/XV soundbar",
-        "value": "samsung s-soundbar s61B/xv soundbar",
+        "name": "Samsung S-SOUNDBAR S61BXV soundbar",
+        "value": "samsung s-soundbar s61Bxv soundbar",
         "category1": "pro-audio",
         "category2": "hi-fi-sound",
-        "file": "Samsung S-SOUNDBAR S61B/XV soundbar.docx",
+        "file": "Samsung S-SOUNDBAR S61BXV soundbar.docx",
         "price": "400$",
-        "description": "fffff",
+        "description": "<h4>Audio technology</h4><p>- Dolby Atmos/DTS:X technology  with modern wireless surround sound, strong configuration, reproducing and improving sound quality even with 3D standards.</p><p>- Q-Symphony technology links soundbars and TV speakers  for powerful, resonant sound so you can listen to vibrant music and watch sports shows more attractively and excitedly.</p><p>-  The integrated center speaker balances all sounds, helping listeners not miss any dialogue of the characters in the movie. Passive speaker membrane helps optimize bass, creating thick, deep bass. </p><div class='single-product-image'> <img src='assets/images/products/hi-fi-sound 2.1.jpg' alt=''></div><br><h4>Wattage</h4><p>Delivers high sound quality, creating a surround sound space that covers all senses with a total   powerful  speaker capacity of 200W and a  5-channel  system with 4 Woofer speakers and 3 Treb speakers designed inside a compact speaker bar. only.</p><div class='single-product-image'> <img src='assets/images/products/hi-fi-sound 2.2.jpg' alt=''></div><h4>Control</h4><p>In addition to the control panel on the speaker body, you can also use  One Remote Control  to turn on/off, adjust the volume and other functions of the device easily, without having to move near the speaker.</p><div class='single-product-image'> <img src='assets/images/products/hi-fi-sound 2.3.jpg' alt=''></div>",
         "thumbnail": "7_18_9.webp",    
         "listThumbnail": [
             "7_18_9.webp",
@@ -1214,8 +1178,7 @@
                 "Audio technology": "Dolby Atmos/DTS Virtual:X, Q-symphony",
                 "Weight": "3.8 kg"                                                                                                                                             
             },
-            "feature": "<ul><li>Dolby Atmos standard sound technology and DTS Virtual provide realistic, vivid sound.</li><li>Power up to 200W helps the sound resonate vividly in every detail</li><li>Connect up to 7 speakers at the same time to expand the sound space</li><li>Quick and easy control via One Remote control</li><li>Connecting to many peripheral devices increases convenience</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Dolby Atmos standard sound technology and DTS Virtual provide realistic, vivid sound.</li><li>Power up to 200W helps the sound resonate vividly in every detail</li><li>Connect up to 7 speakers at the same time to expand the sound space</li><li>Quick and easy control via One Remote control</li><li>Connecting to many peripheral devices increases convenience</li></ul>"
     }, 
     {
         "id": 91,
@@ -1225,7 +1188,7 @@
         "category2": "audio-accessories",
         "file": "JBL Micas 2 wireless microphone.docx",
         "price": "100$",
-        "description": "fffff",
+        "description": "<h4>Small style:</h4><p>JBL Wireless Wireless Microphone is designed with 2 mic arms and 1 mini signal transceiver to make installation simpler and easier, optimal for family rooms with small spaces. Is a great choice.</p><div class='single-product-image'> <img src='assets/images/products/audio-accessories 1.1.jpg' alt=''></div><p>JBL wireless microphone delivers pristine sound with crystal clear vocals and incredible detail. Users can freely sing and perform high songs without fatigue and exertion. Simply plug the wireless dual-channel amplifier into your speakers, turn on the microphone, and you're ready to shine.</p><h4>High sensitivity</h4><div class='single-product-image'> <img src='assets/images/products/audio-accessories 1.2.jpg' alt=''></div><p>Good sound reproduction ability thanks to the company's high-end mic integrated into the product. Users can easily sing high notes without worrying about being out of breath</p><div class='single-product-image'> <img src='assets/images/products/audio-accessories 1.3.jpg' alt=''></div><p>JBL Wireless Microphone combines with many portable karaoke speaker models everywhere.</p>",
         "thumbnail": "group_255_4.webp",    
         "listThumbnail": [
             "group_255_4.webp",
@@ -1239,8 +1202,7 @@
                 "Range": "Operating range 40m",
                 "Sound": "Capture sounds extremely accurately, Anti-howling, Maximum vocal support"                                                                                                                                             
             },
-            "feature": "<ul><li>High sensitivity supports accurate sound reproduction down to every detail</li><li>Super standard sound capture for improved vocal quality</li><li>Quickly pair with a variety of current karaoke devices</li><li>Equipped with 2 mic arms and 1 mini wireless signal transceiver</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>High sensitivity supports accurate sound reproduction down to every detail</li><li>Super standard sound capture for improved vocal quality</li><li>Quickly pair with a variety of current karaoke devices</li><li>Equipped with 2 mic arms and 1 mini wireless signal transceiver</li></ul>"
     }, 
     {
         "id": 92,
@@ -1250,7 +1212,7 @@
         "category2": "audio-accessories",
         "file": "Mic Karaoke Alpha Works A1.docx",
         "price": "200$",
-        "description": "fffff",
+        "description": "<p>Alpha Works A1 wireless microphone is one of the best quality Bluetooth microphones today. The product is integrated with many interesting new features that will surely satisfy you and make your party more meaningful than ever.</p><h4>Micro Alpha Works A1 - Compact, luxurious and sturdy design</h4><p>The Alpha Works A1 wireless microphone is made of metal and is coated with an electrostatic nano layer on the surface to prevent electricity leakage and dirt accumulation during use. The body of this wireless microphone is also integrated with an LED screen that displays operational information, along with a power button with high elasticity that is easy to operate for users.</p><div class='single-product-image'> <img src='assets/images/products/audio-accessories 2.1.jpg' alt=''></div><br><h4>Durable operation</h4><div class='single-product-image'> <img src='assets/images/products/audio-accessories 2.2.jpg' alt=''></div><p>You use 2 AA batteries to power the Alpha Works A1 microphone. AA batteries are easy to find at popular electrical stores, but later types of rechargeable batteries will be harder to find and more expensive if they need to be replaced. With these two batteries, you can freely sing karaoke without worrying about the mic quickly running out of battery.</p>",
         "thumbnail": "mic-karaoke-alpha-work-a1_4_.webp",    
         "listThumbnail": [
             "mic-karaoke-alpha-work-a1_4_.webp", 
@@ -1264,8 +1226,7 @@
                 "Range": "Operating range 15m",
                 "Sound": "Anti-howling, Maximum vocal support"                                                                                                                                            
             },
-            "feature": "<ul><li>Frequency: 50 frequency channels</li><li>Range: Operating range 15m</li><li>Sound: Anti-howling, Maximum vocal support</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Frequency: 50 frequency channels</li><li>Range: Operating range 15m</li><li>Sound: Anti-howling, Maximum vocal support</li></ul>"
     }, 
     {
         "id": 101,
@@ -1275,7 +1236,7 @@
         "category2": "memory-cards",
         "file": "SDXC Memory Card SanDisk Extreme Pro U3 V30 128GB 200MB.docx",
         "price": "100$",
-        "description": "fffff",
+        "description": "<h4>SanDisk Extreme Pro U3 V30 128GB 200MB/s SDXC memory card</h4><p>SanDisk Extreme Pro U3 V30 128GB 200MB/s SDXC memory card makes your storage convenient and brings fast working performance. 128GB 200 MB/s SD memory card supports professional camcorders with high resolution, requiring high performance and capacity of storage memory cards to be able to perform continuous shooting and real-time video recording modes. high quality. In addition, the memory card is also waterproof and can operate in temperatures from -18 to 85 degrees Celsius, and the card also has the ability to reduce shock and vibration.</p><h4>Design of Sony RX 100 Mark VII</h4><div class='single-product-image'> <img src='assets/images/products/memory-cards 1.1.jpg' alt=''></div>",
         "thumbnail": "the-nho-sdxc-sandisk-extreme-pro-u3-v30-128gb-200mb-s-sdsdxxd-128g-gn4in-500x500.jpg",    
         "listThumbnail": [
             "the-nho-sdxc-sandisk-extreme-pro-u3-v30-128gb-200mb-s-sdsdxxd-128g-gn4in-500x500.jpg", 
@@ -1288,8 +1249,7 @@
                 "Read speed":"200 MB/s",
                 "Write speed": " 90 MB/s"                                                                                                                                          
             },
-            "feature": "<ul><li>Sensor Format:N/A</li><li>Form factor: SDXC</li><li>Capacity: 128 GB</li><li>Up to 200 MB/s read speed</li><li>Up to 90 MB/s write speed</li><li>ISupports continuous shooting and Full HD and 4K recording</li><li>Water, X-ray, temperature and shock resistant</li><li>RescuePRO Deluxe recovery software for two years</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Sensor Format:N/A</li><li>Form factor: SDXC</li><li>Capacity: 128 GB</li><li>Up to 200 MB/s read speed</li><li>Up to 90 MB/s write speed</li><li>ISupports continuous shooting and Full HD and 4K recording</li><li>Water, X-ray, temperature and shock resistant</li><li>RescuePRO Deluxe recovery software for two years</li></ul>"
     }, 
     {
         "id": 102,
@@ -1299,7 +1259,7 @@
         "category2": "memory-cards",
         "file": "MicroSDXC Sandisk Extreme Pro 64gb 170mbs memory card.docx",
         "price": "40$",
-        "description": "fffff",
+        "description": "<h4>SanDisk Extreme Pro U3 V30 64GB 170MB/s SDXC memory card</h4><p>Designed for SD devices that can capture Full HD, 3D, and 4K video, as well as raw and burst photography, the 64GB Extreme PRO UHS-I SDXC Memory Card from SanDisk has a capacity of 64GB, is compatible with the UHS-I bus, and features a speed class rating of V30, which guarantees minimum write speeds of 30 MB/s. If your device does not support the V30 standard, this card also supports the U3 standard, which likewise guarantees minimum write speeds of 30 MB/s. Read speeds are supported up to 200 MB/s and write speeds max out at 90 MB/s. A built-in write-protect switch helps to safeguard against the accidental erasure of card data. While this card has been designed for cameras that are UHS-I / V30 / U3 compatible, it may be used in devices that do not support UHS-I / V30 / U3. However, bear in mind that this card will then default to your device's speed class and bus rating, such as UHS-I and U1, which supports minimum write speeds of 10 MB/s, or Class 10, which also supports minimum write speeds of 10 MB/s. As with most SanDisk cards, this memory card is shockproof, X-ray proof, waterproof, while also being able to withstand temperatures from -13 to 185°F, allowing you to take this card with you into extreme environments, such as snow, deserts, and pools. Should the card's data become compromised, you also benefit from the option to download RescuePRO Deluxe software as well as a limited lifetime warranty.</p>",
         "thumbnail": "the-nho-microsdxc-sandisk-extreme-pro-64gb-170mbs-500x500.jpg",     
         "listThumbnail": [
             "the-nho-microsdxc-sandisk-extreme-pro-64gb-170mbs-500x500.jpg",  
@@ -1311,8 +1271,7 @@
                 "Read speed":"170 MB/s",
                 "Write speed": "90 MB/s"                                                                                                                                         
             },
-            "feature": "<ul><li>Sensor Format:N/A</li><li>Form factor: SDXC</li><li>Capacity: 64 GB</li><li>Up to 170MB/s read speed</li><li>Up to 90 MB/s write speed</li><li>ISupports continuous shooting and Full HD and 4K recording</li><li>Water, X-ray, temperature and shock resistant</li><li>RescuePRO Deluxe recovery software for two years</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Sensor Format:N/A</li><li>Form factor: SDXC</li><li>Capacity: 64 GB</li><li>Up to 170MB/s read speed</li><li>Up to 90 MB/s write speed</li><li>ISupports continuous shooting and Full HD and 4K recording</li><li>Water, X-ray, temperature and shock resistant</li><li>RescuePRO Deluxe recovery software for two years</li></ul>"
     }, 
     {
         "id": 103,
@@ -1322,7 +1281,7 @@
         "category2": "memory-cards",
         "file": "Sony XQD 64GB Series G memory card.docx",
         "price": "70$",
-        "description": "fffff",
+        "description": "<h4>Sony XQD 64GB Series G memory card</h4><p>Sony's XQD 64GB G Series memory card is designed for professional photographers and videographers. Like other Sony memory cards, this memory card is shockproof, X-ray proof and magnet proof. It can also withstand temperatures from -13 to 149°F allowing you to carry it in harsh environments. Besides, it is also resistant to exposure to intense UV light. The memory card provides up to 64GB of storage capacity with read and write speeds of up to 440 MB/s allowing for 4K video recording and storage of up to 200 continuous images.</p><h4>Design of Sony RX 100 Mark VII</h4><div class='single-product-image'> <img src='assets/images/products/memory-cards 3.1.jpg' alt=''></div>",
         "thumbnail": "the-nho-sony-xqd-64gb-series-g-500x500.jpg",     
         "listThumbnail": [
             "the-nho-sony-xqd-64gb-series-g-500x500.jpg",   
@@ -1334,8 +1293,7 @@
                 "Read speed":"440 MB/s",
                 "Write speed": "440 MB/s"                                                                                                                                      
             },
-            "feature": "<ul><li>Withstands temperatures from -13 to 149°F</li><li>Form factor: SDXC</li><li>Capacity: 64 GB</li><li>Up to 64GB storage</li><li>Up to 440 MB/s read and write speeds</li><li>ISupports continuous shooting and Full HD and 4K recording</li><li>Shockproof, X-ray resistant and anti-magnet</li><li>RescuePRO Deluxe recovery software for two years</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Withstands temperatures from -13 to 149°F</li><li>Form factor: SDXC</li><li>Capacity: 64 GB</li><li>Up to 64GB storage</li><li>Up to 440 MB/s read and write speeds</li><li>ISupports continuous shooting and Full HD and 4K recording</li><li>Shockproof, X-ray resistant and anti-magnet</li><li>RescuePRO Deluxe recovery software for two years</li></ul>"
     }, 
     {
         "id": 104,
@@ -1357,8 +1315,7 @@
                 "Read speed":"180 MB/s",
                 "Write speed": "150 MB/s"                                                                                                                                    
             },
-            "feature": "<ul><li>Withstands temperatures from -13 to 149°F</li><li>Resistant to impacts from X-rays, magnets and temperature</li><li>Water, dust and impact resistant</li><li>256GB storage capacity</li><li>Maximum sequential read speed: 180 MB/s</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Withstands temperatures from -13 to 149°F</li><li>Resistant to impacts from X-rays, magnets and temperature</li><li>Water, dust and impact resistant</li><li>256GB storage capacity</li><li>Maximum sequential read speed: 180 MB/s</li></ul>"
     }, 
     {
         "id": 105,
@@ -1368,7 +1325,7 @@
         "category2": "memory-cards",
         "file": "CF Express Memory Card (Type A)-Essential.docx",
         "price": "300$",
-        "description": "fff",
+        "description": "<h4>Outstanding features of CF Express Type A memory card</h4><p>CF Express Type A memory card with large capacity, including 2 options CF Express Type A 120GB and CF Express Type A 180GB and CFexpress Type A 240GB, using 3D TLC flash memory to provide outstanding writing and reading performance. Recorded read speeds are up to 800MB/s and sequential write speeds are up to 700MB/s via the PCIe 3.0 / NVMe 1.4 interface. In particular, this memory card also has VPG200 certification, ensuring a minimum reading speed of 200 MB/s.</p><h4>Supports smooth 8K video recording</h4><div class='single-product-image'> <img src='assets/images/products/memory-cards 5.1.jpg' alt=''></div><p>CF Express Type A stands out with very good shock, vibration and magnet resistance. This is one of the memory cards with the longest lifespan on the MTBF rating, the usage time before failure is about 2 million hours. At the same time, this type of memory card has a very low rate of uncorrectable bit errors, about <1 for every 1017 bits read.</p> <img src='assets/images/products/memory-cards 5.2.jpg' alt=''></div>",
         "thumbnail": "essential-cfexpress-type-a-240gb-500x500.jpg",     
         "listThumbnail": [
             "essential-cfexpress-type-a-240gb-500x500.jpg"         
@@ -1379,31 +1336,7 @@
                 "Read speed":"800 MB/s",
                 "Write speed": "700 MB/s"                                                                                                                                   
             },
-            "feature": "<ul><li>Resistant to shock, vibration and magnets.</li><li>Stable 8K video recording ability, no dropped frames.</li><li>Water, dust and impact resistant</li><li>Maximum read speed: 800 MB/s.</li><li>Maximum writing speed: 700 MB/s.</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
-    }, 
-    {
-        "id": 104,
-        "name": "Catalyst V30 256GB Exascend SD Memory Card",
-        "value": "catalyst v30 256gb exascend sd memory card",
-        "category1": "memory-cards-camera-film",
-        "category2": "memory-cards",
-        "file": "Catalyst V30 256GB Exascend SD Memory Card.docx",
-        "price": "40$",
-        "description": "<h4>Exascend V30 Catalyst 256GB SD Memory Card</h4><p>SExascend 256GB UHS-I SDXC is a high-end memory card line with large capacity, read speed of 180 MB/s and write speed of 150 MB/s. Designed specifically for professional photography and videography, this card ensures fast image capture and fast data storage.</p><h4>Design of Sony RX 100 Mark VII</h4><div class='single-product-image'><img src='https://cdn.vjshop.vn/phu-kien-nhiep-anh/the-nho/the-sd/sd-v30-catalyst-256gb-exascend/sd-v30-catalyst-256gb-exascend-2-500x500.jpg' alt=''></div><p>Exascend's memory card line can withstand extremely harsh weather with temperatures ranging from -25 to 85°C, helping users confidently approach the most difficult scenes and create great photos. In addition, Exascend's UHS-I SDXC Card is also waterproof, dustproof, resistant to strong impacts and is safely protected from X-rays and magnets.</p><img src='https://cdn.vjshop.vn/phu-kien-nhiep-anh/the-nho/the-sd/sd-v30-catalyst-256gb-exascend/sd-v30-catalyst-256gb-exascend-3.jpg' alt=''>",
-        "thumbnail": "sd-v30-catalyst-256gb-exascend-500x500.jpg",     
-        "listThumbnail": [
-            "sd-v30-catalyst-256gb-exascend-500x500.jpg",   
-            "sd-v30-catalyst-256gb-exascend-2-500x500.jpg"     
-        ],
-        "property": 
-            { 
-                "Capacity": "256 GB",
-                "Read speed":"180 MB/s",
-                "Write speed": "150 MB/s"                                                                                                                                    
-            },
-            "feature": "<ul><li>Withstands temperatures from -13 to 149°F</li><li>Resistant to impacts from X-rays, magnets and temperature</li><li>Water, dust and impact resistant</li><li>256GB storage capacity</li><li>Maximum sequential read speed: 180 MB/s</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Resistant to shock, vibration and magnets.</li><li>Stable 8K video recording ability, no dropped frames.</li><li>Water, dust and impact resistant</li><li>Maximum read speed: 800 MB/s.</li><li>Maximum writing speed: 700 MB/s.</li></ul>"
     }, 
     {
         "id": 111,
@@ -1412,8 +1345,8 @@
         "category1": "memory-cards-camera-film",
         "category2": "camera-film",
         "file": "Fujifilm Instax Square camera film.docx",
-        "price": "300$",
-        "description": "fff",
+        "price": "100$",
+        "description": "<h4>Fujifilm Instax Square camera film (20 sheets)</h4><p>Fujifilm Instax Mini Square Film Cartridge is compatible with Fujifilm Instax Square Instax Camera. Accordingly, you can use film for square format instant photo printers such as SQ10, SQ20, SQ6. With sharp, clear printing, vivid colors and natural tones. This is a great choice for portraits, picnics, landscapes or even taking photos with an electronic flash.</p><h4>Supports smooth 8K video recording</h4><div class='single-product-image'> <img src='assets/images/products/camera-film 1.1.jpg' alt=''></div>",
         "thumbnail": "fujifilm-16583664-instax-square-film-us-1533214309-1406035-500x500.jpg",     
         "listThumbnail": [
             "fujifilm-16583664-instax-square-film-us-1533214309-1406035-500x500.jpg"         
@@ -1424,8 +1357,7 @@
                 "Film size":"86 x 72 mm",
                 "Print quantity": "20 per package"                                                                                                                                  
             },
-            "feature": "<ul><li>Frame design: white</li><li>Photo size: 62 x 62 mm</li><li>Film size: 86 x 72 mm</li><li>Quantity printed: 20 per pack</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Frame design: white</li><li>Photo size: 62 x 62 mm</li><li>Film size: 86 x 72 mm</li><li>Quantity printed: 20 per pack</li></ul>"
     }, 
     {
         "id": 112,
@@ -1435,7 +1367,7 @@
         "category2": "camera-film",
         "file": "Fujifilm Instax Mini camera film.docx",
         "price": "10$",
-        "description": "fff",
+        "description": "<h4>Outstanding features</h4><p>Compact design fits in pocket or purse. Supports instant photo printing for Fujifilm Instax 7s, 8s, 9, 25s, 50s, 70, Neo 90, Instax Share cameras to help you record your moments at any time. Design the white part below for you to take and record photos.</p><div class='single-product-image'> <img src='assets/images/products/camera-film 2.1.jpg' alt=''></div>",
         "thumbnail": "instax-mini-film-500x500.jpg",     
         "listThumbnail": [
             "instax-mini-film-500x500.jpg"        
@@ -1446,8 +1378,7 @@
                 "Film size":"6.2 x 4.6 cm",
                 "Print quantity": "10 per package"                                                                                                                                
             },
-            "feature": "<ul><li>Film for Fujifilm instax mini camera</li><li>Film size: 6.2 x 4.6 cm</li><li>One box contains 10 films</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Film for Fujifilm instax mini camera</li><li>Film size: 6.2 x 4.6 cm</li><li>One box contains 10 films</li></ul>"
     }, 
     {
         "id": 121,
@@ -1457,7 +1388,7 @@
         "category2": "tripods-support",
         "file": "Yunteng VCT-668 tripod.docx",
         "price": "50$",
-        "description": "fff",
+        "description": "<h4>Yunteng VCT-668 flexible design, easy to adjust</h4><p>The Yunteng VCT-668 tripod brings beautiful photos without having to spend too much effort to calibrate the machine. All thanks to the integration of the water drop balance gauge and flexible design, easy to rotate in many directions.</p><div class='single-product-image'> <img src='assets/images/products/tripods-support 1.1.jpg' alt=''></div><p>Weighing in at just 1.3 kg, this tripod is very lightweight, making it comfortable to move. The metal leg is also coated with an antioxidant coating, creating durability for the product. The minimum length of only 46 cm helps it always accompany you on pinic trips and travel.</p><p>The tripod is designed specifically for cameras and camcorders that are compact, easy to move, and easy to use. Not only does it support photography, eliminate shake, it also provides flexibility to help you unleash your creativity with your photos.</p>",
         "thumbnail": "yunteng-vct-668-6-500x500.jpg",     
         "listThumbnail": [
             "yunteng-vct-668-6-500x500.jpg",
@@ -1472,8 +1403,7 @@
                 "Minimum height": "46 cm",
                 "Load bearing": "3 Kg"                                                                                                                               
             },
-            "feature": "<p>The Yunteng VCT-668 tripod supports easy shooting, 3-pin focus point stabilization with a non-slip rubber stand, and screw locks that allow quick adjustment of shooting angle or movie shooting</p>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<p>The Yunteng VCT-668 tripod supports easy shooting, 3-pin focus point stabilization with a non-slip rubber stand, and screw locks that allow quick adjustment of shooting angle or movie shooting</p>"
     }, 
     {
         "id": 122,
@@ -1483,7 +1413,7 @@
         "category2": "tripods-support",
         "file": "Caplock Mantispod Z tripod.docx",
         "price": "40$",
-        "description": "fff",
+        "description": "<h4>Outstanding features of Caplock Mantispod Z</h4><p>The Caplock Mantispod Z tripod is designed to be sturdy, durable, can withstand loads up to 1 kg and in extension mode is 1/2kg. The device is compatible with many types of action cameras as well as cameras smaller than about 1kg, smartphones. In particular, Caplock Mantispod Z has up to 5 shooting modes including: Mantis mode, handheld mode, extension mode, tripod mode and briefcase mode.</p><p>There are 5 shooting modes: Mantis mode, handheld mode, extended mode, tripod mode and briefcase mode. Mantis mode has been upgraded, allowing you to take photos with many unique angles, opening up unexpected creative opportunities. The minimalist, flexible design makes it easy to switch between tripod and handheld modes, selfie modes, and angle adjustments.</p>",
         "thumbnail": "1695302122-1786759-500x500.jpg",      
         "listThumbnail": [
             "1695302122-1786759-500x500.jpg", 
@@ -1498,18 +1428,17 @@
                 "Minimum height": "9 cm",
                 "Load bearing": "1 Kg"                                                                                                                               
             },
-            "feature": "<p>The Caplock Mantispod Z tripod is ruggedly designed, for high durability, load-bearing up to 1 kg and in extended mode 1/2kg. The device can be compatible with a variety of action cameras as well as smaller design cameras around 1kg, smartphones. In particular, Caplock Mantispod Z has up to 5 shooting modes including: Mantis mode, handheld mode, expansion mode, tripod mode and briefcase mode. </p>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<p>The Caplock Mantispod Z tripod is ruggedly designed, for high durability, load-bearing up to 1 kg and in extended mode 1/2kg. The device can be compatible with a variety of action cameras as well as smaller design cameras around 1kg, smartphones. In particular, Caplock Mantispod Z has up to 5 shooting modes including: Mantis mode, handheld mode, expansion mode, tripod mode and briefcase mode. </p>"
     }, 
     {
         "id": 123,
-        "name": "Benro Tripod - T980",
-        "value": "benro tripod - t980",
+        "name": "Benro Tripod-T980",
+        "value": "benro tripod-t980",
         "category1": "accessories",
         "category2": "tripods-support",
-        "file": "Benro tripod - T980.docx",
+        "file": "Benro Tripod-T980.docx",
         "price": "110$",
-        "description": "fff",
+        "description": "<h4>Benro - T980 tripod</h4><p>Benro - T980 tripod has a design from sturdy aluminum alloy with a load capacity of up to 5kg. Users can control the tripod flexibly, rotate the camera in many directions easily, create impressive photos from many different angles or unique vertical photo frames.</p><h4>Benro Tripod - T980</h4><div class='single-product-image'> <img src='assets/images/products/tripods-support 3.1.jpg' alt=''></div><p>The tripod design is not only compatible with mirrorless cameras and DSLR cameras, but you can also combine it with accessories to use with your smartphone. The base of the tripod is rubber coated, helping the Benro - T980 stand firmly on different surfaces.</p>",
         "thumbnail": "chan-may-benro-t980-6-500x500.jpg",       
         "listThumbnail": [
             "chan-may-benro-t980-6-500x500.jpg", 
@@ -1524,18 +1453,17 @@
                 "Minimum height": "67.5 cm",
                 "Load bearing": "5 Kg"                                                                                                                              
             },
-            "feature": "<p>The Benro - T980 tripod features a sturdy aluminum alloy design with a load capacity of up to 5kg. Users can flexibly control the tripod, rotate the camera in many directions easily, create impressive photos from many different angles or unique vertical photo frames.</p>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<p>The Benro - T980 tripod features a sturdy aluminum alloy design with a load capacity of up to 5kg. Users can flexibly control the tripod, rotate the camera in many directions easily, create impressive photos from many different angles or unique vertical photo frames.</p>"
     }, 
     {
         "id": 124,
-        "name": "Benro Video Tripod - A673TMBS8 Pro",
-        "value": "benro video tripod - a673tmbs8 pro",
+        "name": "Benro Video Tripod-A673TMBS8 Pro",
+        "value": "benro video tripod-a673tmbs8 pro",
         "category1": "accessories",
         "category2": "tripods-support",
-        "file": "Benro Video Tripod - A673TMBS8 Pro.docx",
+        "file": "Benro Video Tripod-A673TMBS8 Pro.docx",
         "price": "500$",
-        "description": "fff",
+        "description": "<h4>Benro Video Tripod - A673TMBS8 Pro </h4><p>The Benro Video - A673TMBS8 Pro tripod is designed specifically for professional videographers and photographers. The tripod is made of aluminum in the form of a dual tube, making the tripod extremely sturdy, able to withstand loads up to 8kg, but the weight of the Benro Video - A673TMBS8 Pro tripod is only 5.45kg. Benro Video Tripod - A673TMBS8 Pro is divided into 3 segments with a maximum height of up to 1585mm, a minimum height of 750mm. The underside of the tripod is rubber coated to stand on any surface.</p><div class='single-product-image'> <img src='assets/images/products/tripods-support 4.1.jpg' alt=''></div><p>The S8Pro ball head is finished from aluminum and magnesium extremely sturdy so that you can safely place a camera or camcorder weighing up to 8kg without worrying about safety. In addition, the S8Pro ball head of the tripod has a safety lock slide and can be rotated 360 degrees and tilted at a 90 degree angle to help users get creative with their shooting scenes.</p>",
         "thumbnail": "chan-may-benro-video-a673tmbs8-pro-1-500x500.jpg",        
         "listThumbnail": [
             "chan-may-benro-video-a673tmbs8-pro-1-500x500.jpg", 
@@ -1550,8 +1478,7 @@
                 "Minimum height": "750mm",
                 "Load bearing": "8 Kg"                                                                                                                             
             },
-            "feature": "<p>The Benro Video - A673TMBS8 Pro tripod is designed specifically for professional filmmakers, possessing a maximum height of 1585mm. The tripod is finished from extremely strong aluminum, withstanding a maximum load of 8kg.</p>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<p>The Benro Video - A673TMBS8 Pro tripod is designed specifically for professional filmmakers, possessing a maximum height of 1585mm. The tripod is finished from extremely strong aluminum, withstanding a maximum load of 8kg.</p>"
     }, 
     {
         "id": 125,
@@ -1561,7 +1488,7 @@
         "category2": "tripods-support",
         "file": "Sirui SR3204 Carbon tripod.docx",
         "price": "300$",
-        "description": "fff",
+        "description": "<h4>Sirui SR3204 Carbon tripod</h4><p>Sirui SR3204 Carbon is made of carbon fibers, supporting a tripod with a load of up to 25kg. With a large bearing capacity, this tripod is suitable for use with DSLR cameras and large video cameras. Sirui SR3204 has a compact design (only 54.36cm when folded), weighing 2kg makes it easy for photographers to carry on business trips.</p><div class='single-product-image'> <img src='assets/images/products/tripods-support 5.1.jpg' alt=''></div><p>Sirui SR3204 uses S-grade design with convenient curved legs for easy and comfortable operation. At the same time, this design also allows the tripod to better distribute force on each leg, ensuring stability when used.</p>",
         "thumbnail": "chan-carbon-sirui-sr3204-500x500.jpg",        
         "listThumbnail": [
             "chan-carbon-sirui-sr3204-500x500.jpg",     
@@ -1576,8 +1503,7 @@
                 "Minimum height": "11.9cm",
                 "Load bearing": "25 Kg"                                                                                                                            
             },
-            "feature": "<p>The Sirui SR3204 Carbon tripod with a load capacity of up to 25kg is especially suitable for working in studios or using a combination of DSLR cameras, large video cameras. The tripod design is only 54.36cm when folded, but the maximum height can reach 150cm to support users to create the best art products.</p>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<p>The Sirui SR3204 Carbon tripod with a load capacity of up to 25kg is especially suitable for working in studios or using a combination of DSLR cameras, large video cameras. The tripod design is only 54.36cm when folded, but the maximum height can reach 150cm to support users to create the best art products.</p>"
     }, 
     {
         "id": 131,
@@ -1587,7 +1513,7 @@
         "category2": "lighting-studio",
         "file": "Godox QS400II Flash.docx",
         "price": "150$",
-        "description": "fff",
+        "description": "<h4>The Godox QS400II</h4><p>The Godox QS400II is a balanced flash that provides natural light like daylight. The lamp has a color temperature of 5600K that can adjust the light from 5-100% with professional and convenient features, providing the best light source when shooting. The 6.0 lb QS400II makes it easy to assemble accessories, Bowens mounts are compatible with a variety of devices.</p><div class='single-product-image'><img src='assets/images/products/lighting-studio 1.1.jpg' alt=''></div><p>Godox QS400II uses TTL X1 wireless triggers and XT16 and FT16 remote controllers to control power, lighting and light activation. With the remote control, you can control the lights easily. Besides, the light also integrates 32 channels and 16 groups to limit interference from other devices.</p>",
         "thumbnail": "den-godox-qs400ii-500x500.jpg",         
         "listThumbnail": [
             "den-godox-qs400ii-500x500.jpg",      
@@ -1599,8 +1525,7 @@
             { 
                 "Detail": "Optional X1, FT-16, XT16 transmitter, Color temperature 5600K, Lamp return time from 0.3 - 1.5 seconds, Flash duration: 1/800 to 1/2000 sec"                                                                                                                           
             },
-            "feature": "<p>Godox lamps are QS400II a balanced flash source, providing natural light like daylight. The lamp has a color temperature of 5600K that can adjust the light from 5-100% with professional and convenient features, providing the best light source when shooting.</p>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<p>Godox lamps are QS400II a balanced flash source, providing natural light like daylight. The lamp has a color temperature of 5600K that can adjust the light from 5-100% with professional and convenient features, providing the best light source when shooting.</p>"
     }
     , 
     {
@@ -1611,7 +1536,7 @@
         "category2": "lighting-studio",
         "file": "Godox V860III Flash.docx",
         "price": "140$",
-        "description": "fff",
+        "description": "<h4>Godox V860III flash</h4><p>Godox V860III is a new version that has just been released by Godox to upgrade from the V860II version with many outstanding features. The lamp has good performance, compatible with Canon, Fujifilm, Sony, Nikon, Olympus, Panasonic and Pentax cameras. This flash supports high-speed synchronization, flash exposure compensation, and adds many more features to enhance your photography.</p><h4>Stylish Design</h4><div class='single-product-image'><img src='assets/images/products/lighting-studio 2.1.jpg' alt=''></div><p>The lights have many different flash modes that allow you to unleash your creativity such as TTL, Manual and Multi modes. Functions such as HSS, FEC, FEB,.... help you record every moment quickly and accurately. With the zoom ability from 20mm to 200mm of the head of the lamp, users can adjust the light range easily. Whether photographing a wide scene or a small space, the V860III illuminates the subject naturally.</p>",
         "thumbnail": "godox-v860iii-500x500.jpg",          
         "listThumbnail": [
             "godox-v860iii-500x500.jpg",      
@@ -1623,8 +1548,7 @@
             { 
                 "Detail": "Large battery capacity, Godox X 2.4G wireless control system, the battery provides 480 flashes at maximum power, 1.5 seconds light revert time"                                                                                                                           
             },
-            "feature": "<p>Godox lamp V860III for Fujifilm, Canon, Sony, Nikon... is a new version that has just been launched by Godox upgraded from the V860II version with many outstanding features. The lamp has good performance, compatible with Canon, Fujifilm, Sony, Nikon, Olympus, Panasonic and Pentax cameras. </p>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<p>Godox lamp V860III for Fujifilm, Canon, Sony, Nikon... is a new version that has just been launched by Godox upgraded from the V860II version with many outstanding features. The lamp has good performance, compatible with Canon, Fujifilm, Sony, Nikon, Olympus, Panasonic and Pentax cameras. </p>"
     }, 
     {
         "id": 133,
@@ -1634,7 +1558,7 @@
         "category2": "lighting-studio",
         "file": "Godox Zoomable Parabolic Reflector.docx",
         "price": "110$",
-        "description": "fff",
+        "description": "<h4>Godox Zoomable Parabolic Reflector 128 1 Stop</h4><p>Godox Zoomable Parabolic Reflector 128 1 Stop (P128-D2) is specially designed for Parabolic Reflector 128. It attaches securely to the front of the reflector and absorbs 0.5 light stops while minimizing harsh shadow lines.</p>",
         "thumbnail": "p88-d2-500x500.jpg",           
         "listThumbnail": [
             "p88-d2-500x500.jpg",      
@@ -1645,8 +1569,7 @@
             { 
                 "Detail": "The Godox Zoomable Parabolic Reflector 128 1 Stop (P128-D2) is specially designed for the Parabolic Reflector 128. It fastens to the front of the reflector and absorbs 0.5 light stops while minimizing harsh shadow lines."                                                                                                                           
             },
-            "feature": "<p>The Godox Zoomable Parabolic Reflector 128 1 Stop (P128-D2) is specially designed for the Parabolic Reflector 128. It fastens to the front of the reflector and absorbs 0.5 light stops while minimizing harsh shadow lines. </p>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<p>The Godox Zoomable Parabolic Reflector 128 1 Stop (P128-D2) is specially designed for the Parabolic Reflector 128. It fastens to the front of the reflector and absorbs 0.5 light stops while minimizing harsh shadow lines. </p>"
     }, 
     {
         "id": 134,
@@ -1656,7 +1579,7 @@
         "category2": "lighting-studio",
         "file": "Qihe M288S Pro Lamp Stand.docx",
         "price": "60$",
-        "description": "fff",
+        "description": "<h4>Qihe M288S Pro Lamp Holder</h4><p>Belonging to the high-end Studio lampstand line, with a large shockproof steam in sturdy metal, with a latch to firmly fix the lamp, solid 3-segs design. The INOX Qihe M288S Pro tripod is one of the Flash tripods with a sturdy, simple design that is easy to use and move, not only in the Studio room but also when shooting outside.</p>",
         "thumbnail": "qihe-j288s-500x500.jpg",           
         "listThumbnail": [
             "qihe-j288s-500x500.jpg",      
@@ -1666,8 +1589,7 @@
             { 
                 "Detail": "Provides a maximum height of 280cm, fold easily to only 100cm, payload capacity up to 12kg, modern design, high-quality stainless steel material."                                                                                                                           
             },
-            "feature": "<p>Belonging to the line of lampshades for high-end Studios, there is a large shockproof steam of sturdy metal, with latches to firmly fix the lamp, solid 3-segment design. The INOX Qihe M288S Pro is one of the flash legs with a solid, simple design that is easy to use and move, not only shooting in the Studio but also when shooting outside. </p>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<p>Belonging to the line of lampshades for high-end Studios, there is a large shockproof steam of sturdy metal, with latches to firmly fix the lamp, solid 3-segment design. The INOX Qihe M288S Pro is one of the flash legs with a solid, simple design that is easy to use and move, not only shooting in the Studio but also when shooting outside. </p>"
     }, 
     {
         "id": 141,
@@ -1688,8 +1610,7 @@
                 "Capacity": "25L",
                 "Max load capacity": "12kg"
             },
-            "feature": "<ul><li>Capacity: 25L</li><li>Custom storage space</li><li>One touch open and close magnetic lock</li><li>Maximum load: 12kg</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Capacity: 25L</li><li>Custom storage space</li><li>One touch open and close magnetic lock</li><li>Maximum load: 12kg</li></ul>"
     }, 
     {
         "id": 142,
@@ -1699,7 +1620,7 @@
         "category2": "camera-bag-and-cases",
         "file": "Blow lowepro straightline beep 250.docx",
         "price": "100$",
-        "description": "<h4>PGYTECH OneGo Air 25L Camera Backpack </h4><iframe width='879' height='525' src='https://www.youtube.com/embed/r4wfGpaBNNw' title='PGYTECH OneGo Air Backpack | Lighter, But Mightier!' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe><p>PGYTECH OneGo Air 25L backpack is for a variety of photography users. Clamshell design with customizable storage space, equipped with convenient laptop and Ipad compartments, and many other smart features, the OneGo Air 25L camera backpack will be a great choice on all your trips.</p><img src='assets/images/products/Camera bags & Cases 1.jpg' alt=''>",
+        "description": "<h4>Blow lowepro straightline beep 250</h4><p>Lowepro StreetLine BP 250 backpack is a fashionable backpack with a weight of 1.15 kg, external dimensions 33.5 x 13 x 52 cm, internal dimensions 32.5 x 12 x 50.8 cm.</p>",
         "thumbnail": "camera-backpacks-streetlinebp-250-left-sq-lp36946-pww-500x500.jpg",            
         "listThumbnail": [
             "camera-backpacks-streetlinebp-250-left-sq-lp36946-pww-500x500.jpg", 
@@ -1712,8 +1633,7 @@
                 "Capacity": "20L",
                 "Max load capacity": "1.15 kg"
             },
-            "feature": "<ul><li>Model: LP36946Material: Polyester & Nylon fabric  </li><li>Dimensions: 33.5 x 13 x 52 cm</li><li>Compatible: 13 inch laptop</li><li>Weight: 1.15 kg</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Model: LP36946Material: Polyester & Nylon fabric  </li><li>Dimensions: 33.5 x 13 x 52 cm</li><li>Compatible: 13 inch laptop</li><li>Weight: 1.15 kg</li></ul>"
     }, 
     {
         "id": 143,
@@ -1723,7 +1643,7 @@
         "category2": "camera-bag-and-cases",
         "file": "Nikon Camera Bag.docx",
         "price": "10$",
-        "description": "fff",
+        "description": "<h4>Nikon camera bag </h4><ul><li>Bag size: 25*20*15</li><li>Capacity 1 body and 2 lens</li>",
         "thumbnail": "tui-may-anh-nikon-1-500x500.jpg",            
         "listThumbnail": [
             "tui-may-anh-nikon-1-500x500.jpg", 
@@ -1735,8 +1655,7 @@
                 "Capacity": "1 body and 2 lenses",
                 "Max load capacity": "1.1 kg"
             },
-            "feature": "<ul><li>Bag size: 25*20*15</li><li>Capacity: 1 body and 2 lens</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Bag size: 25*20*15</li><li>Capacity: 1 body and 2 lens</li></ul>"
     }, 
     {
         "id": 144,
@@ -1746,7 +1665,7 @@
         "category2": "camera-bag-and-cases",
         "file": "Sony ZV Camera Bag.docx",
         "price": "20$",
-        "description": "fff",
+        "description": "<h4>Sony ZV camera bag</h4><p>Sony ZV camera bag is a camera accessory designed specifically for Sony ZV camera lines. With a compact, trendy design, the bag helps protect the camera and can be easily carried on your trips. The inside of the Sony ZV camera bag has a soft layer and perfect shock resistance to help protect the camera from bumps and scratches when moving and keep the camera safe even when encountering strong impacts. It doesn't stop there, thanks to the smart design with a zipper system that helps users open and close easily, quickly, saving time.</p><h4>Stylish Design</h4><div class='single-product-image'><img src='assets/images/products/camera-bag-and-cases 1.1.jpg' alt=''></div>",
         "thumbnail": "tui-may-anh-sony-zv-500x500.jpg",            
         "listThumbnail": [
             "tui-may-anh-sony-zv-500x500.jpg", 
@@ -1758,8 +1677,7 @@
                 "Capacity": "1 body and 2 lenses",
                 "Max load capacity": "1 kg"
             },
-            "feature": "<ul><li>Smart zipper</li><li>Compact, convenient, light design</li><li>Smooth inner cushion design</li><li>Shockproof bag for camera</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Smart zipper</li><li>Compact, convenient, light design</li><li>Smooth inner cushion design</li><li>Shockproof bag for camera</li></ul>"
     }, 
     {
         "id": 151,
@@ -1769,7 +1687,7 @@
         "category2": "miscellaneous-accessories",
         "file": "Canon Selphy CP1300 Photo Printer.docx",
         "price": "200$",
-        "description": "fff",
+        "description": "<h4>Canon Selphy CP1300 Photo Printer</h4><p>The portable, compact, convenient Canon Selphy CP1300 photo printer allows users to easily create vivid and sharp photos with a resolution of up to 300 dpi. You can print photos from 2.1 x 2.1 inches to 4 x 6 inches quickly. In addition, with a completely new 2 x 6 inch layout feature, users have a variety of possibilities to choose and create their own printing styles.</p><h4>Stylish Design</h4><div class='single-product-image'><img src='assets/images/products/miscellaneous-accessories 1.1.jpg' alt=''></div><p>The color quality of the image on this Canon accessory is also extremely durable, thanks to the special protective film on the photos that protects the color and lasts up to 100 years. In addition to traditional glossy paper, printed photos are composed of 3 other materials: matte finishing materials, smooth finishing materials, and mesh. Not stopping there, the optional battery can print 54 copies of photos per charge, helping to enjoy many different frames.</p>",
         "thumbnail": "canon-selphy-cp1300-8-500x500.jpg",             
         "listThumbnail": [
             "canon-selphy-cp1300-8-500x500.jpg",
@@ -1781,8 +1699,7 @@
             { 
                 "Details": "The Canon Selphy CP1300 is a compact photo printer with a resolution of up to 300 dpi, printing photos from 2.1 x 2.1 inches to 4 x 6 inches. Possesses an optional battery, capable of printing 54 copies per charge. The device supports AirPrint connection and Canon PRINT Mobile App allows printing from the phone. Along with that is the 3.2-inch LCD screen design that can be folded up and down extremely conveniently."
             },
-            "feature": "<ul><li>Party Shuffle Print mode, USB Host port</li><li>Wireless printing support AirPrint and Mopria Print Service</li><li>Maximum resolution of 300 dpi</li><li>Apple AirPrint & Canon PRINT mobile app support</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>Party Shuffle Print mode, USB Host port</li><li>Wireless printing support AirPrint and Mopria Print Service</li><li>Maximum resolution of 300 dpi</li><li>Apple AirPrint & Canon PRINT mobile app support</li></ul>"
     }, 
     {
         "id": 152,
@@ -1790,9 +1707,9 @@
         "value": "vsgo travel edition toilet set dkl-15g",
         "category1": "accessories",
         "category2": "miscellaneous-accessories",
-        "file": "VSGO Travel edition toilet set DKL-15G.docx",
+        "file": "VSGO Travel edition toilet set DKL 15G.docx",
         "price": "20$",
-        "description": "fff",
+        "description": "<h4>VSGO Travel edition toilet set DKL-15G</h4><p>The ball blows with strong blowing power. You can use a Soft Brush to remove any adhesive dust particles in the lens or sensor. Blurred filter image affects image quality, you just need to use wipes and cleaning solution to solve this problem. 6-in-1 multi-purpose cleaning kit.</p>",
         "thumbnail": "bo-ve-sinh-vsgo-travel-edition-mau-xanh-duong-500x500.jpg",              
         "listThumbnail": [
             "bo-ve-sinh-vsgo-travel-edition-mau-xanh-duong-500x500.jpg"                                                                                                   
@@ -1801,8 +1718,7 @@
             { 
                 "Details": "Blown balls have strong blowing power. You can use a Soft Broom to wipe away any adhered dust particles in your lens or sensor."
             },
-            "feature": "<ul><li>6-in-1 multi-function (cleaning, dust blowing...) </li><li>Used to clean camera lenses</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>6-in-1 multi-function (cleaning, dust blowing...) </li><li>Used to clean camera lenses</li></ul>"
     }, 
     {
         "id": 153,
@@ -1812,7 +1728,7 @@
         "category2": "miscellaneous-accessories",
         "file": "ANDBON AD-100S moisture-proof Cabinet.docx",
         "price": "200$",
-        "description": "fff",
+        "description": "<h4>ANDBON AD-100S moisture-proof cabinet</h4><p>ANDBON AD-100S moisture-proof cabinet is made of thick, tough steel, operating according to a mechanism using semiconductor technology to create a hygroscopic environment. Then the humid air inside will condense and be sucked outside by a desiccant. Compact design, delicate colors, ANDBON AD-100C can be placed anywhere in your home.</p>",
         "thumbnail": "tu-chong-am-andbon-ad-100c-500x500.jpg",              
         "listThumbnail": [
             "tu-chong-am-andbon-ad-100c-500x500.jpg",
@@ -1823,8 +1739,7 @@
             { 
                 "Details": "ANDBON AD-100S moisture-proof cabinet is made from thick, tubid steel material, operating by the mechanism of using semiconductor technology to create a hygroscopic environment. Then the humid air inside will condense and be sucked outside by a desiccant. Compact design, delicate colors, ANDBON AD-100C can be placed anywhere in your home."
             },
-            "feature": "<ul><li>There are 5 compartments that can be pulled out</li><li>Capacity: 100L</li><li>Power capacity: 5W/H</li><li>Voltage used: 110-220V</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li>There are 5 compartments that can be pulled out</li><li>Capacity: 100L</li><li>Power capacity: 5W/H</li><li>Voltage used: 110-220V</li></ul>"
     }, 
     {
         "id": 154,
@@ -1834,7 +1749,7 @@
         "category2": "miscellaneous-accessories",
         "file": "EIRMAI R10 moisture-proof box.docx",
         "price": "200$",
-        "description": "fff",
+        "description": "<h4>EIRMAI R10 moisture-proof box</h4><p>EIRMAI 10 Liter Moisture Proof Box | Imported Goods EIRMAI Moisture Proof Box with 10 Liter capacity is enough to hold 1 camera, 2 to 3 lenses and some other accessories. The box is designed thickly, the lid has a rubber coating that prevents moisture from entering absolutely. Especially, the box has a built-in hydometer on the body, with a dehumidifier that can be charged directly, can be used many times for a long time.</p>",
         "thumbnail": "hop-chong-am-eirmai-r10-500x500.jpg",               
         "listThumbnail": [
             "hop-chong-am-eirmai-r10-500x500.jpg"                                                                                                     
@@ -1843,8 +1758,7 @@
             { 
                 " Details": " EIRMAI moisture-proof box 10 Liters | Imports, the 10-liter EIRMAI moisture-proof box is enough to hold 1 camera, 2 to 3 lenses and some other accessories. The box is designed to be thick, the lid has a rubber layer that absolutely prevents moisture from entering. In particular, the box has a built-in hygrometer on the body, and a dehumidifier that can be charged directly, can be used many times for a long time."
             },
-            "feature": "<ul><li> The box has 5 colors: blue, gray, red, green and yellow.</li><li>Eirmai R10 anti-humidity box includes: box + dehumidifier + anti-squirrel mat.</li></ul>",
-            "brand": ["Cameras","Cameras 2","Cameras 3"]
+            "feature": "<ul><li> The box has 5 colors: blue, gray, red, green and yellow.</li><li>Eirmai R10 anti-humidity box includes: box + dehumidifier + anti-squirrel mat.</li></ul>"
     }
 ]
 

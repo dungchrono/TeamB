@@ -56,8 +56,7 @@ function Search() {
                                     <div className="shop-toolbar">
                                         {/*Product View Mode Start*/}
                                         <div className="product-view-mode">
-                                            <button className="active" data-mode="grid"><i className="fa fa-th" /></button>
-                                            <button data-mode="list"><i className="fa fa-align-justify" /></button>
+                                            <button className="active" data-mode="grid"><i className="fa fa-th" /></button>                       
                                         </div>
                                         {/*Product View Mode End*/}
                                         {/*Product Showing Start*/}
@@ -88,7 +87,7 @@ function Search() {
                                         {/*Sidebar Start*/}
                                         <div className="col-12 mb-35">
                                             <div className="widget">
-                                                <h4 className="widget-title">Brand</h4>
+                                                <h3>LIST OF PRODUCTS</h3>
                                             </div>
                                         </div>
                                         {/*Sidebar End*/}
