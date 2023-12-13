@@ -76,15 +76,6 @@ function ListItem() {
                                     {/*Shop Toolbar Start*/}
 
                                     <div className="shop-toolbar">
-                                        {/*Product View Mode Start*/}
-                                        <div className="product-view-mode">
-                                            <button className="active" data-mode="grid"><i className="fa fa-th" /></button>
-                                        </div>
-                                        {/*Product View Mode End*/}
-                                        {/*Product Showing Start*/}
-                                        <div className="product-showing me-auto">
-                                            <h4>{formatString(nameCategory && ! nameChildCategory ? nameCategory: nameChildCategory)}</h4>
-                                        </div>
                                     </div>
                                     {/*Shop Toolbar End*/}
                                     <div className="shop-product-wrap row mbn-35">
@@ -138,6 +129,7 @@ function ListItem() {
                                     </div>
                                 </div>
                                 {/*Sidebar Wrapper End*/}
+                                
                             </div>
                         </div>
                     </div>
@@ -145,6 +137,7 @@ function ListItem() {
 
                 </div>
             </div>
+
         </>
     );
 }

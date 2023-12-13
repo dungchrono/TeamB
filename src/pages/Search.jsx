@@ -51,21 +51,7 @@ function Search() {
                             <div className="row mbn-40">
                                 {/*Product Wrapper Start*/}
                                 <div className="col-lg-9 col-12 order-lg-2 mb-40">
-                                    {/*Shop Toolbar Start*/}
 
-                                    <div className="shop-toolbar">
-                                        {/*Product View Mode Start*/}
-                                        <div className="product-view-mode">
-                                            <button className="active" data-mode="grid"><i className="fa fa-th" /></button>                       
-                                        </div>
-                                        {/*Product View Mode End*/}
-                                        {/*Product Showing Start*/}
-                                        <div className="product-showing me-auto">
-                                            <p>Search</p>
-                                        </div>
-
-                                    </div>
-                                    {/*Shop Toolbar End*/}
                                     <div className="shop-product-wrap row mbn-35">
                                         {
                                             listItem?.map((item) =>

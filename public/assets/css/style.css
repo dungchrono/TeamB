@@ -208,8 +208,8 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 
 @media only screen and (min-width: 1200px) and (max-width: 1499px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px) {
   .section-wide > [class*="container"] {
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 0px;
+    padding-right: 0px;
   }
 }
 
@@ -217,6 +217,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   .section-wide > [class*="container"] {
     padding-left: 15px;
     padding-right: 15px;
+    background-color: black;
   }
 }
 
@@ -241,6 +242,8 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   }
   .row:not(.gx-0) {
     --bs-gutter-x: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
   }
 }
 
@@ -399,6 +402,8 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   .section-padding {
     padding-top: 20px;
     padding-bottom: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
   }
 }
 
@@ -461,7 +466,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 
 /*Page banner*/
 .page-banner {
-  background-image: url(../images/bg/subscribe-bg-1.jpg);
+  background-image: url(../images/slider/slider-4.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -469,9 +474,10 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 
 .page-title {
-  font-size: 36px;
+  font-size: 30px;
   font-weight: 700;
   margin-bottom: 0;
+  color:white;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -514,6 +520,8 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   line-height: 1;
   padding-top: 2px;
   padding-right: 8px;
+  color: white;
+  font-size: 20px;
 }
 
 .page-breadcrumb li + li::before {
@@ -939,7 +947,7 @@ blockquote p {
     02. Header CSS
 -----------------------------------------*/
 .header-section {
-  background-color: #000;
+  background-color: white;
   width: 100%;
   z-index: 9999;
   color: #fff;
@@ -1917,7 +1925,7 @@ blockquote p {
 }
 
 .hero-bg-2 {
-  background-image: url(../images/slider/slider-2.jpg);
+  background-image: url(../images/bg/subscribe-bg-2.jpg);
 }
 
 .hero-bg-3 {
@@ -1963,7 +1971,7 @@ blockquote p {
 
 @media only screen and (min-width: 1200px) and (max-width: 1499px), only screen and (min-width: 992px) and (max-width: 1199px) {
   .hero-item {
-    height: 450px;
+    height: 250px;
   }
 }
 
@@ -3197,10 +3205,10 @@ blockquote p {
 }
 
 .single-product-content .action .action-btn {
-  background-color: #f1f2f3;
+  background-color: #f1f2f3;  
   border: none;
   line-height: 1;
-  padding: 15px;
+  padding: 10px;
 }
 
 .single-product-content .action .action-btn + .action-btn {

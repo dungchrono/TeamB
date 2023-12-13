@@ -41,7 +41,7 @@ function Header() {
           </div>
         </div>{/* Header Logo End */}
         {/* Main Menu One Start */}
-          <div style={{ paddingRight: '40px'}}>
+          <div style={{ paddingRight: '60px'}}>
           <div style={{ display: 'flex', justifyContent: 'flex-end', alignItems: 'end' }}>
             <div className="input-search my-3" style={{ width: '200px', backgroundColor: 'white'}}>
                   <input type="text" value={text} onKeyPress={handleKeyPress} onChange={(e)=> handleSearch(e.target.value)} placeholder="Search here..."/>

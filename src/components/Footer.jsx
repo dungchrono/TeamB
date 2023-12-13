@@ -1,6 +1,41 @@
 import { Link, useLocation, useNavigate } from "react-router-dom";
 function Footer() {
     return ( 
+      <>
+      <div className="section section-wide section-padding">
+  <div className="container-fluid">
+    <div className="row mbn-30">
+      <div className="service col-xl-3 col-md-6 col-12 mb-30">
+        <div className="icon" />
+        <div className="content">
+          <h3>Free home delivery</h3>
+          <p>Provide free home delivery for the all product over $100</p>
+        </div>
+      </div>
+      <div className="service col-xl-3 col-md-6 col-12 mb-30">
+        <div className="icon" />
+        <div className="content">
+          <h3>Quality Products</h3>
+          <p>We ensure the product quality that is our main goal</p>
+        </div>
+      </div>
+      <div className="service col-xl-3 col-md-6 col-12 mb-30">
+        <div className="icon" />
+        <div className="content">
+          <h3>3 Days Return</h3>
+          <p>Our Return Policy is very simple and easy for all</p>
+        </div>
+      </div>
+      <div className="service col-xl-3 col-md-6 col-12 mb-30">
+        <div className="icon" />
+        <div className="content">
+          <h3>Online Support</h3>
+          <p>Provide 24/7 online support for any information</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
       <div className="section section-wide">
         <div className="container">
         <div className="row mbn-40" style={{ backgroundColor: 'black',padding:'40px' }}>
@@ -54,7 +89,7 @@ function Footer() {
     </div>
         </div>
       </div>
-      
+      </>
      );
 }
 

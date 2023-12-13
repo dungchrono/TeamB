@@ -93,10 +93,12 @@ tr:nth-child(even) {
   align-items: center;
   justify-content: space-between;
   height: 150px;
+  background-color: black;
 }
 
 .hero-item .content .title{
-  font-size: 50px;
+  font-size: 35px;
+  color: white;
 }
 
 .hero-item .content{

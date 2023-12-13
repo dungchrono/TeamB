@@ -45,6 +45,7 @@ function AboutUs() {
         {/* Contact Form Start */}
         <div className="col-lg-7 col-12 mb-40">
           <div className="contact-form-wrap">
+          <h4>About Us</h4>
             <p>FOTOLAB was established in 1991 with the objective of providing sales service for Digital Camera, SLR Camera, Handycam, their accessories and all other related products.
             </p>
             <img src="assets/images/products/EKkyc33XsAo4nia.jpg" alt="" />
