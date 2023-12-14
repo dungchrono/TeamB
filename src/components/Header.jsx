@@ -72,7 +72,7 @@ function Header() {
                     <li><Link  to={'/list?nameCategory=pro-audio&nameChildCategory=audio-accessories'}>Audio Accessories</Link></li>
                   </ul>
                 </li>
-                <li className="menu-item-has-children"><Link  to={'/list?nameCategory=memory-cards'}>Memory cards &amp; Media</Link>
+                <li className="menu-item-has-children"><Link  to={'/list?nameCategory=memory-cards-camera-film'}>Memory cards &amp; Media</Link>
                     <ul className="sub-menu">
                     <li><Link  to={'/list?nameCategory=memory-cards-camera-film&nameChildCategory=memory-cards'}>Memory Cards</Link></li>
                     <li><Link  to={'/list?nameCategory=memory-cards-camera-film&nameChildCategory=camera-film'}>Camera Film</Link></li>
@@ -87,7 +87,7 @@ function Header() {
                     <li><Link  to={'/list?nameCategory=accessories&nameChildCategory=miscellaneous-accessories'}>Miscellaneous Accessories</Link></li>                                     
                   </ul>
                 </li>
-                <li className="menu-item-has-children"><Link  to={'#'}>Contact</Link>
+                <li className="menu-item-has-children"><Link  to={'/contact-me'}>Contact</Link>
                     <ul className="sub-menu">
                     <li><Link  to={'/about-us'}>About us</Link></li>
                     <li><Link  to={'/contact-me'}>Contact me</Link></li>                                 
