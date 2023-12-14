@@ -1,5 +1,5 @@
 import React from 'react';
-import Header from '../components/Header.';
+import Header from '../components/Header';
 import Footer from '../components/Footer';
 import { useMyContext } from '../hook/MyContext';
 import { useNavigate } from 'react-router';
