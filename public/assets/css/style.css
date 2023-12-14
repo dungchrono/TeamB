@@ -202,8 +202,8 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 .section-wide > [class*="container"] {
   width: 100% !important;
   max-width: none !important;
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1499px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px) {
@@ -394,8 +394,8 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 
 /*Section Spacing*/
 .section-padding {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1499px), only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -1949,7 +1949,7 @@ blockquote p {
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
-  height: 785px;
+  height: 350px;
   position: relative;
   z-index: 1;
 }
